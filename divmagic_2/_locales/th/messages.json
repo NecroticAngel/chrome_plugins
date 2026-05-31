@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic - สไตล์การคัดลอก"
+  },
+  "extDescription": {
+    "message": "คัดลอกองค์ประกอบจากหน้าเว็บใดๆ เป็นส่วนประกอบของเว็บที่ใช้ซ้ำได้ รับโค้ด HTML, CSS, React, JSX หรือ Tailwind CSS"
+  },
+  "loginPageTitle": {
+    "message": "ยินดีต้อนรับสู่ DivMagic!"
+  },
+  "loginPageBody1": {
+    "message": "ในการเข้าถึงเครื่องมือพัฒนาเว็บอันทรงพลังของเรา เราขอเชิญคุณสร้างบัญชีหรือเข้าสู่ระบบ"
+  },
+  "loginPageBody2": {
+    "message": "คุณจะเพลิดเพลินไปกับเวิร์กโฟลว์การพัฒนาที่ราบรื่นเมื่อสมัครสมาชิก DivMagic"
+  },
+  "loginPageEmailLabel": {
+    "message": "อีเมลของคุณ"
+  },
+  "loginPageLoginButton": {
+    "message": "เข้าสู่ระบบ"
+  },
+  "loginPageError": {
+    "message": "ไม่สามารถเข้าสู่ระบบ โปรดตรวจสอบว่าคุณใช้ที่อยู่อีเมลที่คุณสมัครไว้"
+  },
+  "loginPageNewHere": {
+    "message": "ยังใหม่กับ DivMagic?"
+  },
+  "loginPageSignUp": {
+    "message": "ลงชื่อ"
+  },
+  "popupCopyInstructions": {
+    "message": "คลิกที่องค์ประกอบใดๆ หรือกดปุ่ม:"
+  },
+  "popupSettings": {
+    "message": "การตั้งค่า"
+  },
+  "popupFeedback": {
+    "message": "ข้อเสนอแนะ"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "รูปแบบส่วนประกอบ"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "รูปแบบสไตล์"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "CSS แบบอินไลน์"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "CSS ภายนอก"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "CSS ท้องถิ่น"
+  },
+  "copied": {
+    "message": "คัดลอก!"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic ต้องเปิด iframe นี้เพื่อเข้าถึง"
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic ไม่สามารถเข้าถึง iframe นี้ได้"
+  },
+  "iframeOpenText": {
+    "message": "เปิดไอเฟรม"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "แผง DevTools"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "เลือกองค์ประกอบจากแท็บ \"องค์ประกอบ\" เพื่อดูรายละเอียดที่นี่"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "องค์ประกอบที่เลือก"
+  },
+  "devtoolsCopyElement": {
+    "message": "คัดลอกองค์ประกอบ"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "กำลังคัดลอก"
+  },
+  "panelCopyElementCopied": {
+    "message": "คัดลอกแล้ว"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "องค์ประกอบที่เลือกไม่ได้รับอนุญาตให้ดำเนินการคัดลอก"
+  },
+  "modalParentButtonText": {
+    "message": "องค์ประกอบผู้ปกครอง"
+  },
+  "modalParentButtonTooltip": {
+    "message": "เลือกองค์ประกอบหลักของการเลือกปัจจุบัน"
+  },
+  "modalChildButtonText": {
+    "message": "องค์ประกอบเด็ก"
+  },
+  "modalChildButtonTooltip": {
+    "message": "ย้ายส่วนที่เลือกไปยังองค์ประกอบลูก"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "โหมดการทำสำเนา"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "เลือกโหมดการทำสำเนาสำหรับการเลือกปัจจุบัน เราขอแนะนำ \"ปรับเปลี่ยนได้\" สำหรับกรณีการใช้งานส่วนใหญ่"
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "ที่แน่นอน"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "สำเนาทุกประการของสไตล์ทั้งหมด เพื่อให้มั่นใจว่าองค์ประกอบดูเหมือนแหล่งที่มา"
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "ปรับตัวได้"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "รวมเฉพาะสไตล์ที่สำคัญที่สุดที่จำเป็นในการรักษาโครงสร้างและรูปลักษณ์พื้นฐานขององค์ประกอบ ง่ายต่อการปรับแต่ง"
+  },
+  "modalCopyButtonText": {
+    "message": "สำเนา"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "กำลังคัดลอก..."
+  },
+  "onText": {
+    "message": "บน"
+  },
+  "offText": {
+    "message": "ปิด"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "เลือกว่าคุณต้องการรวมสไตล์ CSS [[MEDIAQUERYXYZ]] ไว้ในโค้ดที่คัดลอกหรือไม่"
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "เลือกรูปแบบสำหรับส่วนประกอบที่คัดลอก"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "เลือกรูปแบบ CSS สำหรับสไตล์ที่คัดลอก"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "ซ่อนป๊อปอัปอัตโนมัติ"
+  },
+  "modalDragButtonTooltip": {
+    "message": "ลากเพื่อย้าย"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "ปิด"
+  },
+  "modalStudioExportTooltip": {
+    "message": "เปิดใน DivMagic Studio"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "สมดุล"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "รวมองค์ประกอบหลอก เช่น ::before และ ::after ซึ่งอาจส่งผลต่อผลลัพธ์ด้านการมองเห็นอย่างมีนัยสำคัญ แต่อย่าขยายโค้ดมากเกินไป"
+  },
+  "contextMenuInspect": {
+    "message": "สารวัตร"
+  },
+  "extCommandChooseElement": {
+    "message": "เลือกองค์ประกอบที่จะคัดลอกขณะวางเมาส์เหนือ"
+  },
+  "optionsTitle": {
+    "message": "ตัวเลือก"
+  },
+  "optionsFeedback": {
+    "message": "หากคุณมีข้อเสนอแนะหรือข้อเสนอแนะ โปรดแจ้งให้เราทราบ!"
+  },
+  "optionsShortcuts": {
+    "message": "แป้นพิมพ์ลัด"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "HTML เท่านั้น"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "เฉพาะ CSS เท่านั้น"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "บูรณาการ (WordPress)"
+  },
+  "modalExportToStudioText": {
+    "message": "ส่งออกไปยังสตูดิโอ"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "เพิ่มเส้นขอบให้กับทุกองค์ประกอบ"
+  },
+  "modalLeftButtonText": {
+    "message": "องค์ประกอบลูกซ้าย"
+  },
+  "modalRightButtonText": {
+    "message": "องค์ประกอบลูกที่เหมาะสม"
+  },
+  "toolboxText": {
+    "message": "กล่องเครื่องมือ"
+  },
+  "toolBoxCopyElementText": {
+    "message": "องค์ประกอบคัดลอก"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "องค์ประกอบคัดลอก"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "ดูรายละเอียดองค์ประกอบ"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "คัดลอกตัวอักษร"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "แบบอักษรเว็บ"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "คัดลอกตัวอักษร"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "เว็บไซต์นี้ใช้แบบอักษรระบบ"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "คลิกเพื่อคัดลอก"
+  },
+  "toolBoxShowFontsText": {
+    "message": "แบบอักษร"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "รู้ว่าตัวอักษรแต่ละแท็กใช้อะไร"
+  },
+  "toolBoxThrashText": {
+    "message": "ขยะ"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "ซ่อน / ลบองค์ประกอบ"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "ซ่อนหรือลบองค์ประกอบ"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "ซ่อน"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "ลบ"
+  },
+  "toolBoxColorPickerText": {
+    "message": "ตัวเลือกสี"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "ตัวเลือกสี"
+  },
+  "toolBoxGridsText": {
+    "message": "กริด"
+  },
+  "modalCopyViewText": {
+    "message": "สำเนา"
+  },
+  "modalAddStylesText": {
+    "message": "เพิ่มสไตล์"
+  },
+  "activateToolbox": {
+    "message": "เปิดใช้งานกล่องเครื่องมือ"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "ย้ายการเลือกไปยังองค์ประกอบพี่น้องด้านซ้าย"
+  },
+  "modalRightButtonTooltip": {
+    "message": "ย้ายการเลือกไปยังองค์ประกอบพี่น้องที่ถูกต้อง"
+  },
+  "modalClassSettingsText": {
+    "message": "การตั้งค่าชั้นเรียน:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "คุณลักษณะ HTML ดั้งเดิม"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "ชั้นเรียน DivMagic CSS"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "คลาส CSS ดั้งเดิม"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "คุณลักษณะ HTML DivMagic"
+  },
+  "modalAddCssAttributeText": {
+    "message": "แอตทริบิวต์ CSS"
+  },
+  "modalAddCssValueText": {
+    "message": "ค่า CSS"
+  },
+  "modalInvalidCssValueText": {
+    "message": "ค่า CSS ไม่ถูกต้อง"
+  },
+  "modalElementSettingsText": {
+    "message": "การตั้งค่าองค์ประกอบ:"
+  },
+  "modalSaveElementText": {
+    "message": "บันทึกองค์ประกอบ"
+  },
+  "modalSavingElementText": {
+    "message": "ประหยัด..."
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "รหัสการตรวจสอบที่ไม่ถูกต้อง โปรดตรวจสอบให้แน่ใจว่าคุณป้อนรหัสที่ถูกต้อง"
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "ยกเลิกการตรวจสอบ"
+  },
+  "loginPageVerifyButton": {
+    "message": "ตรวจสอบ"
+  },
+  "loginPageVerificationCode": {
+    "message": "รหัสการตรวจสอบ"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "รหัสยืนยันถูกส่งไปยังอีเมลของคุณ โปรดป้อนด้านล่าง"
+  },
+  "loginPageVerifyEmail": {
+    "message": "ยืนยันอีเมลของคุณ"
+  },
+  "modalGoToLibraryText": {
+    "message": "ไปที่ห้องสมุดของฉัน"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "ส่วนประกอบต่อหน้า"
+  },
+  "devtoolsLibrary": {
+    "message": "ห้องสมุด"
+  },
+  "modalCopyNotification": {
+    "message": "คัดลอกส่วนประกอบ!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "ห้องสมุดของคุณว่างเปล่า บันทึกส่วนประกอบเพื่อดูที่นี่"
+  },
+  "publishDate": {
+    "message": "31 มีนาคมเวอร์ชัน"
+  },
+  "modalExportNotification": {
+    "message": "ส่วนประกอบส่งออก!"
+  },
+  "optionsChooseLanguage": {
+    "message": "เลือกภาษา"
+  },
+  "modalSaveNotification": {
+    "message": "ส่วนประกอบบันทึก!"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "ก่อนหน้า"
+  },
+  "modalSavedElementText": {
+    "message": "บันทึกแล้ว!"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "คัดลอกแล้ว"
+  },
+  "modalEditorViewText": {
+    "message": "บรรณาธิการ"
+  },
+  "toolBoxInspectorText": {
+    "message": "สารวัตร"
+  },
+  "devtoolsLibraryNext": {
+    "message": "ต่อไป"
+  }
+}

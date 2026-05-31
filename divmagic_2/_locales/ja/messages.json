@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic - スタイルのコピー"
+  },
+  "extDescription": {
+    "message": "任意の Web ページから要素を再利用可能な Web コンポーネントとしてコピーします。 HTML、CSS、React、JSX、または Tailwind CSS コードを取得します。"
+  },
+  "loginPageTitle": {
+    "message": "DivMagicクへようこそ!"
+  },
+  "loginPageBody1": {
+    "message": "当社の強力な Web 開発ツールにアクセスするには、アカウントを作成するかログインすることをお勧めします。"
+  },
+  "loginPageBody2": {
+    "message": "DivMagic のサブスクリプションを利用すると、シームレスな開発ワークフローをお楽しみいただけます。"
+  },
+  "loginPageEmailLabel": {
+    "message": "あなたのメールアドレス"
+  },
+  "loginPageLoginButton": {
+    "message": "ログイン"
+  },
+  "loginPageError": {
+    "message": "ログインできませんでした。購読時に使用した電子メール アドレスを使用していることを確認してください。"
+  },
+  "loginPageNewHere": {
+    "message": "DivMagic を初めて使用しますか?"
+  },
+  "loginPageSignUp": {
+    "message": "サインアップ"
+  },
+  "popupCopyInstructions": {
+    "message": "任意の要素をクリックするか、キーを押します。"
+  },
+  "popupSettings": {
+    "message": "設定"
+  },
+  "popupFeedback": {
+    "message": "フィードバック"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "コンポーネントの形式"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "スタイル形式"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "インラインCSS"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "外部CSS"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "ローカルCSS"
+  },
+  "copied": {
+    "message": "コピーしました！"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic がアクセスするには、この iframe を開く必要があります。"
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic はこの iframe にアクセスできません。"
+  },
+  "iframeOpenText": {
+    "message": "iframeを開く"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "[[DEVTOOLS]] パネル"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "「要素」タブから要素を選択すると、その詳細がここで表示されます"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "選択した要素"
+  },
+  "devtoolsCopyElement": {
+    "message": "要素のコピー"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "コピーする"
+  },
+  "panelCopyElementCopied": {
+    "message": "コピーされました"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "選択した要素はコピー操作が許可されていません"
+  },
+  "modalParentButtonText": {
+    "message": "親要素"
+  },
+  "modalParentButtonTooltip": {
+    "message": "現在の選択範囲の親要素を選択します"
+  },
+  "modalChildButtonText": {
+    "message": "子要素"
+  },
+  "modalChildButtonTooltip": {
+    "message": "選択範囲を子要素に移動します"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "コピーモード"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "現在の選択範囲のコピー モードを選択します。ほとんどのユースケースでは「Adaptable」をお勧めします。"
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "ちょうど"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "すべてのスタイルの正確なコピー。要素がソースのように見えることを保証します。"
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "適応性のある"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "要素の構造と基本的な外観を維持するために必要な最も重要なスタイルのみが含まれます。カスタマイズも簡単。"
+  },
+  "modalCopyButtonText": {
+    "message": "コピー"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "コピー中..."
+  },
+  "onText": {
+    "message": "の上"
+  },
+  "offText": {
+    "message": "オフ"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "コピーしたコードに [[MEDIAQUERYXYZ]] CSS スタイルを含める場合に選択します。"
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "コピーしたコンポーネントの形式を選択します"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "コピーしたスタイルの CSS 形式を選択します"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "ポップアップを自動非表示にする"
+  },
+  "modalDragButtonTooltip": {
+    "message": "ドラッグして移動します"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "近い"
+  },
+  "modalStudioExportTooltip": {
+    "message": "DivMagic Studio で開く"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "バランスの取れた"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "::before や ::after などの疑似要素を組み込みます。これらは視覚的な結果に大きな影響を与える可能性がありますが、コードが過度に肥大化することはありません。"
+  },
+  "contextMenuInspect": {
+    "message": "検査官"
+  },
+  "extCommandChooseElement": {
+    "message": "ホバー中にコピーする要素を選択します"
+  },
+  "optionsTitle": {
+    "message": "オプション"
+  },
+  "optionsFeedback": {
+    "message": "フィードバックや提案がありましたら、ぜひお知らせください。"
+  },
+  "optionsShortcuts": {
+    "message": "キーボードショートカット"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "HTMLのみ"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "CSSのみ"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "統合 (WordPress)"
+  },
+  "modalExportToStudioText": {
+    "message": "スタジオへの輸出"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "すべての要素に境界を追加します"
+  },
+  "modalLeftButtonText": {
+    "message": "左子要素"
+  },
+  "modalRightButtonText": {
+    "message": "正しい子供の要素"
+  },
+  "toolboxText": {
+    "message": "ツールボックス"
+  },
+  "toolBoxCopyElementText": {
+    "message": "要素をコピーします"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "要素をコピーします"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "要素の詳細を参照してください"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "フォントをコピーします"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "Webフォント"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "フォントをコピーします"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "このWebサイトでは、システムフォントを使用しています"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "クリックしてコピーします"
+  },
+  "toolBoxShowFontsText": {
+    "message": "フォント"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "各タグが使用しているフォントを把握します"
+  },
+  "toolBoxThrashText": {
+    "message": "ごみ"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "要素を非表示 /削除します"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "要素を非表示または削除します"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "隠れる"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "取り除く"
+  },
+  "toolBoxColorPickerText": {
+    "message": "カラーピッカー"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "カラーピッカー"
+  },
+  "toolBoxGridsText": {
+    "message": "グリッド"
+  },
+  "modalCopyViewText": {
+    "message": "コピー"
+  },
+  "modalAddStylesText": {
+    "message": "スタイルを追加します"
+  },
+  "activateToolbox": {
+    "message": "ツールボックスをアクティブにします"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "選択を左兄弟要素に移動します"
+  },
+  "modalRightButtonTooltip": {
+    "message": "選択を右の兄弟要素に移動します"
+  },
+  "modalClassSettingsText": {
+    "message": "クラス設定："
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "元のHTML属性"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "DivMagic CSSクラス"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "オリジナルのCSSクラス"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "DivMagic HTML属性"
+  },
+  "modalAddCssAttributeText": {
+    "message": "CSS属性"
+  },
+  "modalAddCssValueText": {
+    "message": "CSS値"
+  },
+  "modalInvalidCssValueText": {
+    "message": "無効なCSS値"
+  },
+  "modalElementSettingsText": {
+    "message": "要素設定："
+  },
+  "modalSaveElementText": {
+    "message": "要素を保存します"
+  },
+  "modalSavingElementText": {
+    "message": "節約..."
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "誤った検証コード。 正しいコードを入力したことを確認してください。"
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "検証をキャンセルします"
+  },
+  "loginPageVerifyButton": {
+    "message": "確認する"
+  },
+  "loginPageVerificationCode": {
+    "message": "検証コード"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "確認コードがメールに送信されました。 以下に入力してください。"
+  },
+  "loginPageVerifyEmail": {
+    "message": "あなたの電子メールを確認します"
+  },
+  "modalGoToLibraryText": {
+    "message": "私の図書館に行きます"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "ページごとのコンポーネント"
+  },
+  "devtoolsLibrary": {
+    "message": "図書館"
+  },
+  "modalCopyNotification": {
+    "message": "コピーされたコンポーネント！"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "あなたのライブラリは空です。 コンポーネントを保存してここで表示します。"
+  },
+  "publishDate": {
+    "message": "3月31日バージョン"
+  },
+  "modalExportNotification": {
+    "message": "エクスポートされたコンポーネント！"
+  },
+  "optionsChooseLanguage": {
+    "message": "言語を選択してください"
+  },
+  "modalSaveNotification": {
+    "message": "コンポーネントが保存されました！"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "前の"
+  },
+  "modalSavedElementText": {
+    "message": "保存しました！"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "コピーされました"
+  },
+  "modalEditorViewText": {
+    "message": "編集者"
+  },
+  "toolBoxInspectorText": {
+    "message": "検査官"
+  },
+  "devtoolsLibraryNext": {
+    "message": "次"
+  }
+}

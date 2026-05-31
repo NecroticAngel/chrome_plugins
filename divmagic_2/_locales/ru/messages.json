@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic — копировать стиль"
+  },
+  "extDescription": {
+    "message": "Скопируйте элементы с любой веб-страницы как повторно используемые веб-компоненты. Получите код HTML, CSS, React, JSX или Tailwind CSS."
+  },
+  "loginPageTitle": {
+    "message": "Добро пожаловать в DivMagic!"
+  },
+  "loginPageBody1": {
+    "message": "Чтобы получить доступ к нашему мощному инструменту веб-разработки, мы предлагаем вам создать учетную запись или войти в систему."
+  },
+  "loginPageBody2": {
+    "message": "Подписавшись на DivMagic, вы получите беспрепятственный рабочий процесс разработки."
+  },
+  "loginPageEmailLabel": {
+    "message": "Ваш адрес электронной почты"
+  },
+  "loginPageLoginButton": {
+    "message": "Авторизоваться"
+  },
+  "loginPageError": {
+    "message": "Не удалось войти. Убедитесь, что вы используете адрес электронной почты, на который вы подписались."
+  },
+  "loginPageNewHere": {
+    "message": "Новичок в DivMagic?"
+  },
+  "loginPageSignUp": {
+    "message": "Зарегистрироваться"
+  },
+  "popupCopyInstructions": {
+    "message": "Нажмите на любой элемент или нажмите клавишу:"
+  },
+  "popupSettings": {
+    "message": "Настройки"
+  },
+  "popupFeedback": {
+    "message": "Обратная связь"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "Формат компонента"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "Формат стиля"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "Встроенный CSS"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "Внешний CSS"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "Локальный CSS"
+  },
+  "copied": {
+    "message": "Скопировано!"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic необходимо открыть этот iframe, чтобы получить к нему доступ."
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic не может получить доступ к этому iframe."
+  },
+  "iframeOpenText": {
+    "message": "Открыть iframe"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "Панель [[DEVTOOLS]]"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "Выберите элемент на вкладке «Элементы», чтобы просмотреть сведения о нем здесь."
+  },
+  "devtoolsSelectedElementText": {
+    "message": "Выбранный элемент"
+  },
+  "devtoolsCopyElement": {
+    "message": "Копировать элемент"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "Копирование"
+  },
+  "panelCopyElementCopied": {
+    "message": "Скопировано"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "Выбранный элемент не разрешен для операций копирования"
+  },
+  "modalParentButtonText": {
+    "message": "Родительский элемент"
+  },
+  "modalParentButtonTooltip": {
+    "message": "Выберите родительский элемент текущего выделения"
+  },
+  "modalChildButtonText": {
+    "message": "Дочерний элемент"
+  },
+  "modalChildButtonTooltip": {
+    "message": "Переместить выделение на дочерний элемент"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "Режим копирования"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "Выберите режим копирования для текущего выделения. Мы рекомендуем «Адаптируемый» для большинства случаев использования."
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "Точный"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "Точная копия всех стилей, гарантирующая, что элемент будет выглядеть как исходный."
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "Адаптируемый"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "Включает только самые необходимые стили, необходимые для сохранения структуры и основного внешнего вида элемента. Легко настроить."
+  },
+  "modalCopyButtonText": {
+    "message": "Копировать"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "Копирование..."
+  },
+  "onText": {
+    "message": "На"
+  },
+  "offText": {
+    "message": "Выключенный"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "Выберите, хотите ли вы, чтобы стили CSS [[MEDIAQUERYXYZ]] были включены в скопированный код."
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "Выберите формат для скопированного компонента"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "Выберите формат CSS для скопированных стилей."
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "Автоматическое скрытие всплывающего окна"
+  },
+  "modalDragButtonTooltip": {
+    "message": "Перетаскивать"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "Закрывать"
+  },
+  "modalStudioExportTooltip": {
+    "message": "Открыть в DivMagic Studio"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "Сбалансированный"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "Включает псевдоэлементы, такие как ::before и ::after, которые могут существенно повлиять на визуальный результат, но не чрезмерно раздувают код."
+  },
+  "contextMenuInspect": {
+    "message": "Инспектор"
+  },
+  "extCommandChooseElement": {
+    "message": "Выберите элемент для копирования при наведении курсора мыши"
+  },
+  "optionsTitle": {
+    "message": "Параметры"
+  },
+  "optionsFeedback": {
+    "message": "Если у вас есть какие-либо отзывы или предложения, пожалуйста, дайте нам знать!"
+  },
+  "optionsShortcuts": {
+    "message": "Горячие клавиши"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "Только HTML"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "Только CSS"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "Интеграции (WordPress)"
+  },
+  "modalExportToStudioText": {
+    "message": "Экспорт в студию"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "Добавляет границы каждому элементу"
+  },
+  "modalLeftButtonText": {
+    "message": "Левый детский элемент"
+  },
+  "modalRightButtonText": {
+    "message": "Правильный детский элемент"
+  },
+  "toolboxText": {
+    "message": "Ящик для инструментов"
+  },
+  "toolBoxCopyElementText": {
+    "message": "Копионный элемент"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "Копионный элемент"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "См. Детали элемента"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "Копировать шрифт"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "Веб -шрифты"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "Копировать шрифт"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "Этот веб -сайт использует системные шрифты"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "Нажмите, чтобы скопировать"
+  },
+  "toolBoxShowFontsText": {
+    "message": "Шрифты"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "Знайте, какой шрифт использует каждый тег"
+  },
+  "toolBoxThrashText": {
+    "message": "Мусор"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "Скрыть / удалить элементы"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "Скрыть или удалить элемент"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "Скрывать"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "Удалять"
+  },
+  "toolBoxColorPickerText": {
+    "message": "Цветовой сборщик"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "Цветовой сборщик"
+  },
+  "toolBoxGridsText": {
+    "message": "Сетки"
+  },
+  "modalCopyViewText": {
+    "message": "Копия"
+  },
+  "modalAddStylesText": {
+    "message": "Добавить стили"
+  },
+  "activateToolbox": {
+    "message": "Активируйте набор инструментов"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "Переместите выбор в левый элемент братьев и сестер"
+  },
+  "modalRightButtonTooltip": {
+    "message": "Переместите выбор в правый элемент братьев и сестер"
+  },
+  "modalClassSettingsText": {
+    "message": "Настройки класса:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "Оригинальные атрибуты HTML"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "DivMagic CSS -классы"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "Оригинальные классы CSS"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "DivMagic HTML -атрибуты"
+  },
+  "modalAddCssAttributeText": {
+    "message": "CSS -атрибут"
+  },
+  "modalAddCssValueText": {
+    "message": "Значение CSS"
+  },
+  "modalInvalidCssValueText": {
+    "message": "Неверное значение CSS"
+  },
+  "modalElementSettingsText": {
+    "message": "Настройки элемента:"
+  },
+  "modalSaveElementText": {
+    "message": "Сохранить элемент"
+  },
+  "modalSavingElementText": {
+    "message": "Сохранение ..."
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "Неправильный код проверки. Пожалуйста, убедитесь, что вы ввели правильный код."
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "Отменить проверку"
+  },
+  "loginPageVerifyButton": {
+    "message": "Проверять"
+  },
+  "loginPageVerificationCode": {
+    "message": "Проверочный код"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "Код проверки был отправлен на вашу электронную почту. Пожалуйста, введите его ниже."
+  },
+  "loginPageVerifyEmail": {
+    "message": "Подтвердите Ваш электронный адрес"
+  },
+  "modalGoToLibraryText": {
+    "message": "Перейти в мою библиотеку"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "Компоненты на страницу"
+  },
+  "devtoolsLibrary": {
+    "message": "Библиотека"
+  },
+  "modalCopyNotification": {
+    "message": "Компонент скопирован!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "Ваша библиотека пуста. Сохраните компонент, чтобы увидеть его здесь."
+  },
+  "publishDate": {
+    "message": "31 марта версия"
+  },
+  "modalExportNotification": {
+    "message": "Компонент экспортируется!"
+  },
+  "optionsChooseLanguage": {
+    "message": "Выберите язык"
+  },
+  "modalSaveNotification": {
+    "message": "Компонент сохранил!"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "Предыдущий"
+  },
+  "modalSavedElementText": {
+    "message": "Спасено!"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "Скопировано"
+  },
+  "modalEditorViewText": {
+    "message": "редактор"
+  },
+  "toolBoxInspectorText": {
+    "message": "Инспектор"
+  },
+  "devtoolsLibraryNext": {
+    "message": "Следующий"
+  }
+}

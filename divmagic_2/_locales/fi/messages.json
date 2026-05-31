@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic - kopiointityyli"
+  },
+  "extDescription": {
+    "message": "Kopioi elementtejä miltä tahansa verkkosivulta uudelleenkäytettäviksi verkkokomponenteiksi. Hanki HTML-, CSS-, React-, JSX- tai Tailwind CSS-koodi."
+  },
+  "loginPageTitle": {
+    "message": "Tervetuloa DivMagiciin!"
+  },
+  "loginPageBody1": {
+    "message": "Jotta pääset käyttämään tehokasta verkkokehitystyökaluamme, pyydämme sinua luomaan tilin tai kirjautumaan sisään."
+  },
+  "loginPageBody2": {
+    "message": "Voit nauttia saumattomasta kehitystyönkulusta DivMagic-tilauksella."
+  },
+  "loginPageEmailLabel": {
+    "message": "Sähköpostisi"
+  },
+  "loginPageLoginButton": {
+    "message": "Kirjaudu sisään"
+  },
+  "loginPageError": {
+    "message": "Kirjautuminen ei onnistunut. Varmista, että käytät sitä sähköpostiosoitetta, jolla tilasit."
+  },
+  "loginPageNewHere": {
+    "message": "Uusi DivMagic?"
+  },
+  "loginPageSignUp": {
+    "message": "Kirjaudu"
+  },
+  "popupCopyInstructions": {
+    "message": "Napsauta mitä tahansa elementtiä tai paina näppäintä:"
+  },
+  "popupSettings": {
+    "message": "asetukset"
+  },
+  "popupFeedback": {
+    "message": "Palaute"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "Komponenttimuoto"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "Tyylimuoto"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "Sisäänrakennettu CSS"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "Ulkoinen CSS"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "Paikallinen CSS"
+  },
+  "copied": {
+    "message": "Kopioitu!"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagicin on avattava tämä iframe käyttääkseen sitä."
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic ei voi käyttää tätä iframe-kehystä."
+  },
+  "iframeOpenText": {
+    "message": "Avaa iframe"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "[[DEVTOOLS]] Paneeli"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "Valitse elementti \"Elementit\"-välilehdestä nähdäksesi sen tiedot täältä"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "Valittu elementti"
+  },
+  "devtoolsCopyElement": {
+    "message": "Kopioi elementti"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "Kopioidaan"
+  },
+  "panelCopyElementCopied": {
+    "message": "Kopioitu"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "Valittua elementtiä ei sallita kopiointitoimintoihin"
+  },
+  "modalParentButtonText": {
+    "message": "Vanhempi elementti"
+  },
+  "modalParentButtonTooltip": {
+    "message": "Valitse nykyisen valinnan pääelementti"
+  },
+  "modalChildButtonText": {
+    "message": "Lapsi elementti"
+  },
+  "modalChildButtonTooltip": {
+    "message": "Siirrä valinta lapsielementtiin"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "Kopiointitila"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "Valitse nykyisen valinnan kopiointitila. Suosittelemme \"Sopeutuvaa\" useimpiin käyttötapauksiin."
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "Tarkka"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "Tarkka kopio kaikista tyyleistä, mikä varmistaa, että elementti näyttää lähteeltä."
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "Mukautuva"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "Sisältää vain tärkeimmät tyylit, joita tarvitaan elementin rakenteen ja perusulkomuodon ylläpitämiseen. Helppo muokata."
+  },
+  "modalCopyButtonText": {
+    "message": "Kopio"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "Kopioidaan..."
+  },
+  "onText": {
+    "message": "Päällä"
+  },
+  "offText": {
+    "message": "Vinossa"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "Valitse, haluatko [[MEDIAQUERYXYZ]] CSS-tyylien sisällyttävän kopioituun koodiin."
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "Valitse kopioitavan osan muoto"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "Valitse kopioitujen tyylien CSS-muoto"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "Piilota ponnahdusikkuna automaattisesti"
+  },
+  "modalDragButtonTooltip": {
+    "message": "Raahaa liikuttaaksesi"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "kiinni"
+  },
+  "modalStudioExportTooltip": {
+    "message": "Avaa DivMagic Studiossa"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "Tasapainoinen"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "Sisältää pseudoelementtejä, kuten ::before ja ::after, jotka voivat vaikuttaa visuaaliseen lopputulokseen merkittävästi, mutta eivät turvota koodia liikaa."
+  },
+  "contextMenuInspect": {
+    "message": "Tarkastaja"
+  },
+  "extCommandChooseElement": {
+    "message": "Valitse kopioitava elementti pitämällä hiiren osoitinta"
+  },
+  "optionsTitle": {
+    "message": "Vaihtoehdot"
+  },
+  "optionsFeedback": {
+    "message": "Jos sinulla on palautetta tai ehdotuksia, kerro meille!"
+  },
+  "optionsShortcuts": {
+    "message": "Pikanäppäimet"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "Vain HTML"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "Vain CSS"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "Integraatiot (WordPress)"
+  },
+  "modalExportToStudioText": {
+    "message": "Vienti studioon"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "Lisää rajat jokaiseen elementtiin"
+  },
+  "modalLeftButtonText": {
+    "message": "Vasen lapsielementti"
+  },
+  "modalRightButtonText": {
+    "message": "Oikea lapsielementti"
+  },
+  "toolboxText": {
+    "message": "Työkalupakki"
+  },
+  "toolBoxCopyElementText": {
+    "message": "Kopioelementti"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "Kopioelementti"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "Katso elementtitiedot"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "Kopioida fontti"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "Web -fontit"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "Kopioida fontti"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "Tämä verkkosivusto käyttää järjestelmän fontteja"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "Napsauta kopioidaksesi"
+  },
+  "toolBoxShowFontsText": {
+    "message": "Fontit"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "Tiedä mitä fontti jokainen tunniste käyttää"
+  },
+  "toolBoxThrashText": {
+    "message": "Roskia"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "Piilota / poista elementit"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "Piilota tai poista elementti"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "Piilottaa"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "Poista"
+  },
+  "toolBoxColorPickerText": {
+    "message": "Värinvalitsija"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "Värinvalitsija"
+  },
+  "toolBoxGridsText": {
+    "message": "Ruudut"
+  },
+  "modalCopyViewText": {
+    "message": "Kopio"
+  },
+  "modalAddStylesText": {
+    "message": "Lisää tyylejä"
+  },
+  "activateToolbox": {
+    "message": "Aktivoi työkalupakki"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "Siirrä valinta vasemmalle sisaruselementille"
+  },
+  "modalRightButtonTooltip": {
+    "message": "Siirrä valinta oikeaan sisaruselementtiin"
+  },
+  "modalClassSettingsText": {
+    "message": "Luokan asetukset:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "Alkuperäiset HTML -määritteet"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "DivMagic CSS -luokat"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "Alkuperäiset CSS -luokat"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "DivMagic HTML -määritteet"
+  },
+  "modalAddCssAttributeText": {
+    "message": "CSS -määrite"
+  },
+  "modalAddCssValueText": {
+    "message": "CSS -arvo"
+  },
+  "modalInvalidCssValueText": {
+    "message": "Virheellinen CSS -arvo"
+  },
+  "modalElementSettingsText": {
+    "message": "Elementti -asetukset:"
+  },
+  "modalSaveElementText": {
+    "message": "Tallenna elementti"
+  },
+  "modalSavingElementText": {
+    "message": "Tallentaa..."
+  },
+  "modalSavedElementText": {
+    "message": "Pelastettu!"
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "Väärä vahvistuskoodi. Varmista, että kirjoitit oikean koodin."
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "Peruuta vahvistus"
+  },
+  "loginPageVerifyButton": {
+    "message": "Vahvistaa"
+  },
+  "loginPageVerificationCode": {
+    "message": "Vahvistuskoodi"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "Vahvistuskoodi on lähetetty sähköpostiisi. Anna se alle."
+  },
+  "loginPageVerifyEmail": {
+    "message": "Vahvista sähköpostiosoitteesi"
+  },
+  "modalGoToLibraryText": {
+    "message": "Mene kirjastoon"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "Komponentit sivua kohti"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "Edellinen"
+  },
+  "devtoolsLibrary": {
+    "message": "Kirjasto"
+  },
+  "modalCopyNotification": {
+    "message": "Komponentti kopioitu!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "Kirjasto on tyhjä. Tallenna komponentti nähdäksesi sen täällä."
+  },
+  "publishDate": {
+    "message": "31. maaliskuuta versio"
+  },
+  "modalExportNotification": {
+    "message": "Komponentti viedään!"
+  },
+  "optionsChooseLanguage": {
+    "message": "Valitse kieli"
+  },
+  "modalSaveNotification": {
+    "message": "Komponentti tallennettu!"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "Kopioitu"
+  },
+  "modalEditorViewText": {
+    "message": "Toimittaja"
+  },
+  "toolBoxInspectorText": {
+    "message": "Tarkastaja"
+  },
+  "devtoolsLibraryNext": {
+    "message": "Seuraava"
+  }
+}

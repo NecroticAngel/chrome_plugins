@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic - Stijl kopiëren"
+  },
+  "extDescription": {
+    "message": "Kopieer elementen van elke webpagina als herbruikbare webcomponenten. Ontvang HTML-, CSS-, React-, JSX- of Tailwind CSS-code."
+  },
+  "loginPageTitle": {
+    "message": "Welkom bij DivMagic!"
+  },
+  "loginPageBody1": {
+    "message": "Om toegang te krijgen tot onze krachtige webontwikkelingstool, nodigen we je uit om een ​​account aan te maken of in te loggen."
+  },
+  "loginPageBody2": {
+    "message": "U profiteert van een naadloze ontwikkelingsworkflow met een abonnement op DivMagic."
+  },
+  "loginPageEmailLabel": {
+    "message": "Jouw email"
+  },
+  "loginPageLoginButton": {
+    "message": "Log in"
+  },
+  "loginPageError": {
+    "message": "Kon niet inloggen. Controleer of je het e-mailadres gebruikt waarmee je je hebt aangemeld."
+  },
+  "loginPageNewHere": {
+    "message": "Nieuw bij DivMagic?"
+  },
+  "loginPageSignUp": {
+    "message": "Aanmelden"
+  },
+  "popupCopyInstructions": {
+    "message": "Klik op een element of druk op de toets:"
+  },
+  "popupSettings": {
+    "message": "Instellingen"
+  },
+  "popupFeedback": {
+    "message": "Feedback"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "Component Formaat"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "Stijl Formaat"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "Geïntegreerde CSS"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "Externe CSS"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "Lokale CSS"
+  },
+  "copied": {
+    "message": "Gekopieerd!"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic moet dit iframe openen om er toegang toe te krijgen."
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic heeft geen toegang tot dit iframe."
+  },
+  "iframeOpenText": {
+    "message": "Iframe openen"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "[[DEVTOOLS]] Paneel"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "Selecteer een element op het tabblad \"Elementen\" om hier de details ervan te bekijken"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "Geselecteerd element"
+  },
+  "devtoolsCopyElement": {
+    "message": "Kopieer element"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "Kopiëren"
+  },
+  "panelCopyElementCopied": {
+    "message": "Gekopieerd"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "Geselecteerd element niet toegestaan ​​voor kopieerbewerkingen"
+  },
+  "modalParentButtonText": {
+    "message": "Bovenliggend element"
+  },
+  "modalParentButtonTooltip": {
+    "message": "Selecteer het bovenliggende element van de huidige selectie"
+  },
+  "modalChildButtonText": {
+    "message": "Kindelement"
+  },
+  "modalChildButtonTooltip": {
+    "message": "Verplaats de selectie naar het onderliggende element"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "Kopieermodus"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "Selecteer de kopieermodus voor de huidige selectie. Voor de meeste gebruikssituaties raden wij \"Aanpasbaar\" aan."
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "Exact"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "Een exacte kopie van alle stijlen, zodat het element op de bron lijkt."
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "Aanpasbaar"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "Bevat alleen de meest essentiële stijlen die nodig zijn om de structuur en het basisuiterlijk van het element te behouden. Gemakkelijk aan te passen."
+  },
+  "modalCopyButtonText": {
+    "message": "Kopiëren"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "Kopiëren..."
+  },
+  "onText": {
+    "message": "Op"
+  },
+  "offText": {
+    "message": "Uit"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "Selecteer of u [[MEDIAQUERYXYZ]] CSS-stijlen wilt opnemen in de gekopieerde code."
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "Selecteer het formaat voor het gekopieerde onderdeel"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "Selecteer het CSS-formaat voor de gekopieerde stijlen"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "Pop-up automatisch verbergen"
+  },
+  "modalDragButtonTooltip": {
+    "message": "Sleep om te bewegen"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "Dichtbij"
+  },
+  "modalStudioExportTooltip": {
+    "message": "Openen in DivMagic Studio"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "Evenwichtig"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "Bevat pseudo-elementen zoals ::before en ::after, die de visuele uitkomst aanzienlijk kunnen beïnvloeden, maar de code niet overmatig opblazen."
+  },
+  "contextMenuInspect": {
+    "message": "Inspecteur"
+  },
+  "extCommandChooseElement": {
+    "message": "Kies het element dat u wilt kopiëren terwijl u zweeft"
+  },
+  "optionsTitle": {
+    "message": "Opties"
+  },
+  "optionsFeedback": {
+    "message": "Als u feedback of suggesties heeft, laat het ons dan weten!"
+  },
+  "optionsShortcuts": {
+    "message": "Toetsenbord sneltoetsen"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "Alleen HTML"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "Alleen CSS"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "Integraties (WordPress)"
+  },
+  "modalExportToStudioText": {
+    "message": "Exporteren naar Studio"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "Voegt randen toe aan elk element"
+  },
+  "modalLeftButtonText": {
+    "message": "Links kindelement"
+  },
+  "modalRightButtonText": {
+    "message": "Juist kindelement"
+  },
+  "toolboxText": {
+    "message": "Gereedschapskist"
+  },
+  "toolBoxCopyElementText": {
+    "message": "Kopieerelement"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "Kopieerelement"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "Zie een elementdetail"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "Kopieer het lettertype"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "Weblettertypen"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "Kopieer het lettertype"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "Deze website maakt gebruik van systeemlettertypen"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "Klik om te kopiëren"
+  },
+  "toolBoxShowFontsText": {
+    "message": "Lettertypen"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "Weet welk lettertype elke tag gebruikt"
+  },
+  "toolBoxThrashText": {
+    "message": "Afval"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "Elementen verbergen / verwijderen"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "Verberg of verwijder een element"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "Verbergen"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "Verwijderen"
+  },
+  "toolBoxColorPickerText": {
+    "message": "Kleur kiezer"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "Kleur kiezer"
+  },
+  "toolBoxGridsText": {
+    "message": "Roosters"
+  },
+  "modalCopyViewText": {
+    "message": "Kopiëren"
+  },
+  "modalAddStylesText": {
+    "message": "Voeg stijlen toe"
+  },
+  "activateToolbox": {
+    "message": "Activeer Toolbox"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "Verplaats de selectie naar het linker broer of zuselement"
+  },
+  "modalRightButtonTooltip": {
+    "message": "Verplaats de selectie naar het juiste broer of zuselement"
+  },
+  "modalClassSettingsText": {
+    "message": "Klasse -instellingen:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "Originele HTML -attributen"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "DivMagic CSS -klassen"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "Originele CSS -klassen"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "DivMagic HTML -attributen"
+  },
+  "modalAddCssAttributeText": {
+    "message": "CSS attribuut"
+  },
+  "modalAddCssValueText": {
+    "message": "CSS -waarde"
+  },
+  "modalInvalidCssValueText": {
+    "message": "Ongeldige CSS -waarde"
+  },
+  "modalElementSettingsText": {
+    "message": "Elementinstellingen:"
+  },
+  "modalSaveElementText": {
+    "message": "Sla element op"
+  },
+  "modalSavingElementText": {
+    "message": "Besparing..."
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "Verkeerde verificatiecode. Zorg ervoor dat u de juiste code hebt ingevoerd."
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "Verificatie annuleren"
+  },
+  "loginPageVerifyButton": {
+    "message": "Verifiëren"
+  },
+  "loginPageVerificationCode": {
+    "message": "Verificatie code"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "Er is een verificatiecode naar uw e -mail verzonden. Voer het hieronder in."
+  },
+  "loginPageVerifyEmail": {
+    "message": "Controleer je email"
+  },
+  "modalGoToLibraryText": {
+    "message": "Ga naar mijn bibliotheek"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "Componenten per pagina"
+  },
+  "devtoolsLibrary": {
+    "message": "Bibliotheek"
+  },
+  "modalCopyNotification": {
+    "message": "Component gekopieerd!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "Uw bibliotheek is leeg. Sla een component op om het hier te zien."
+  },
+  "publishDate": {
+    "message": "31 maart versie"
+  },
+  "modalExportNotification": {
+    "message": "Component geëxporteerd!"
+  },
+  "optionsChooseLanguage": {
+    "message": "Kies een taal"
+  },
+  "modalSaveNotification": {
+    "message": "Component opgeslagen!"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "Vorig"
+  },
+  "modalSavedElementText": {
+    "message": "Opgeslagen!"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "Gekopieerd"
+  },
+  "modalEditorViewText": {
+    "message": "Editor"
+  },
+  "toolBoxInspectorText": {
+    "message": "Inspecteur"
+  },
+  "devtoolsLibraryNext": {
+    "message": "Volgende"
+  }
+}

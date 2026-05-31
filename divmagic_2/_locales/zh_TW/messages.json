@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic - 复制样式"
+  },
+  "extDescription": {
+    "message": "将任何网页中的元素复制为可重用的 Web 组件。获取 HTML、CSS、React、JSX 或 Tailwind CSS 代码。"
+  },
+  "loginPageTitle": {
+    "message": "欢迎来到 DivMagic！"
+  },
+  "loginPageBody1": {
+    "message": "要访问我们强大的网络开发工具，我们邀请您创建帐户或登录。"
+  },
+  "loginPageBody2": {
+    "message": "通过订阅 DivMagic，您将享受无缝的开发工作流程。"
+  },
+  "loginPageEmailLabel": {
+    "message": "你的邮件"
+  },
+  "loginPageLoginButton": {
+    "message": "登录"
+  },
+  "loginPageError": {
+    "message": "无法登录。请确保您使用的是订阅时使用的电子邮件地址。"
+  },
+  "loginPageNewHere": {
+    "message": "DivMagic 新手？"
+  },
+  "loginPageSignUp": {
+    "message": "报名"
+  },
+  "popupCopyInstructions": {
+    "message": "按一下任意元素或按 鍵："
+  },
+  "popupSettings": {
+    "message": "设置"
+  },
+  "popupFeedback": {
+    "message": "反馈"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "组件格式"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "风格格式"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "内联CSS"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "外部CSS"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "本地CSS"
+  },
+  "copied": {
+    "message": "复制了！"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic 需要打开此 iframe 才能访问它。"
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic 无法访问此 iframe。"
+  },
+  "iframeOpenText": {
+    "message": "打开 iframe"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "[[DEVTOOLS]] 面板"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "從“元素”選項卡中選擇一個元素以在此處查看其詳細信息"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "選定的元素"
+  },
+  "devtoolsCopyElement": {
+    "message": "複製元素"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "複印"
+  },
+  "panelCopyElementCopied": {
+    "message": "已複製"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "所選元素不允許進行複製操作"
+  },
+  "modalParentButtonText": {
+    "message": "父元素"
+  },
+  "modalParentButtonTooltip": {
+    "message": "選擇目前選擇的父元素"
+  },
+  "modalChildButtonText": {
+    "message": "子元素"
+  },
+  "modalChildButtonTooltip": {
+    "message": "將選擇移動到子元素"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "複印模式"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "選擇目前選擇的複製模式。對於大多數用例，我們建議「適應性強」。"
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "精確的"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "所有樣式的精確副本，確保元素看起來像是來源。"
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "適應性強"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "僅包括維持元素的結構和基本外觀所需的最基本的樣式。易於自訂。"
+  },
+  "modalCopyButtonText": {
+    "message": "複製"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "複製..."
+  },
+  "onText": {
+    "message": "在"
+  },
+  "offText": {
+    "message": "離開"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "選擇是否希望 [[MEDIAQUERYXYZ]] CSS 樣式包含在複製的程式碼中。"
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "選擇複製組件的格式"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "選擇複製樣式的 CSS 格式"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "自動隱藏彈出視窗"
+  },
+  "modalDragButtonTooltip": {
+    "message": "拖曳以移動"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "關閉"
+  },
+  "modalStudioExportTooltip": {
+    "message": "在 DivMagic Studio 中打開"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "均衡"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "合併諸如 ::before 和 ::after 之類的偽元素，這可以顯著影響視覺結果，但不會使程式碼過度膨脹。"
+  },
+  "contextMenuInspect": {
+    "message": "督察"
+  },
+  "extCommandChooseElement": {
+    "message": "懸停時選擇要複製的元素"
+  },
+  "optionsTitle": {
+    "message": "選項"
+  },
+  "optionsFeedback": {
+    "message": "如果您有任何反饋或建議，請告訴我們！"
+  },
+  "optionsShortcuts": {
+    "message": "鍵盤快速鍵"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "僅 HTML"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "僅CSS"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "整合（WordPress）"
+  },
+  "modalExportToStudioText": {
+    "message": "導出到工作室"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "將邊界添加到每個元素"
+  },
+  "modalLeftButtonText": {
+    "message": "左子元素"
+  },
+  "modalRightButtonText": {
+    "message": "正確的子元素"
+  },
+  "toolboxText": {
+    "message": "工具箱"
+  },
+  "toolBoxCopyElementText": {
+    "message": "複製元素"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "複製元素"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "查看元素詳細信息"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "複製字體"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "網絡字體"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "複製字體"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "本網站使用系統字體"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "單擊複製"
+  },
+  "toolBoxShowFontsText": {
+    "message": "字體"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "知道每個標籤正在使用什麼字體"
+  },
+  "toolBoxThrashText": {
+    "message": "垃圾"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "隱藏 /刪除元素"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "隱藏或刪除元素"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "隱藏"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "消除"
+  },
+  "toolBoxColorPickerText": {
+    "message": "選色器"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "選色器"
+  },
+  "toolBoxGridsText": {
+    "message": "網格"
+  },
+  "modalCopyViewText": {
+    "message": "複製"
+  },
+  "modalAddStylesText": {
+    "message": "添加樣式"
+  },
+  "activateToolbox": {
+    "message": "激活工具箱"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "將選擇移至左兄弟姐妹元素"
+  },
+  "modalRightButtonTooltip": {
+    "message": "將選擇移至正確的兄弟姐妹"
+  },
+  "modalClassSettingsText": {
+    "message": "課程設置："
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "原始HTML屬性"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "DivMagic CSS課程"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "原始CSS課程"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "DivMagic HTML屬性"
+  },
+  "modalAddCssAttributeText": {
+    "message": "CSS屬性"
+  },
+  "modalAddCssValueText": {
+    "message": "CSS值"
+  },
+  "modalInvalidCssValueText": {
+    "message": "無效的CSS值"
+  },
+  "modalElementSettingsText": {
+    "message": "元素設置："
+  },
+  "modalSaveElementText": {
+    "message": "保存元素"
+  },
+  "modalSavingElementText": {
+    "message": "保存..."
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "錯誤的驗證代碼。 請確保您輸入正確的代碼。"
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "取消驗證"
+  },
+  "loginPageVerifyButton": {
+    "message": "核實"
+  },
+  "loginPageVerificationCode": {
+    "message": "驗證碼"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "驗證代碼已發送到您的電子郵件中。 請在下面輸入。"
+  },
+  "loginPageVerifyEmail": {
+    "message": "驗證您的電子郵件"
+  },
+  "modalGoToLibraryText": {
+    "message": "去我的圖書館"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "每個頁面組件"
+  },
+  "devtoolsLibrary": {
+    "message": "圖書館"
+  },
+  "modalCopyNotification": {
+    "message": "複製組件！"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "您的庫是空的。 保存一個組件以在此處查看。"
+  },
+  "publishDate": {
+    "message": "3月31日版本"
+  },
+  "modalExportNotification": {
+    "message": "組件導出！"
+  },
+  "optionsChooseLanguage": {
+    "message": "選擇一種語言"
+  },
+  "modalSaveNotification": {
+    "message": "保存的組件！"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "以前的"
+  },
+  "modalSavedElementText": {
+    "message": "得救了！"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "已複製"
+  },
+  "modalEditorViewText": {
+    "message": "編輯"
+  },
+  "toolBoxInspectorText": {
+    "message": "督察"
+  },
+  "devtoolsLibraryNext": {
+    "message": "下一個"
+  }
+}

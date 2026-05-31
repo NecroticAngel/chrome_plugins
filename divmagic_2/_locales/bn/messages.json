@@ -1,0 +1,365 @@
+{
+  "extName": {
+    "message": "DivMagic - কপি স্টাইল"
+  },
+  "extDescription": {
+    "message": "যেকোন ওয়েবপৃষ্ঠা থেকে উপাদানগুলিকে পুনরায় ব্যবহারযোগ্য ওয়েব উপাদান হিসাবে অনুলিপি করুন। HTML, CSS, React, JSX বা Tailwind CSS কোড পান।"
+  },
+  "loginPageTitle": {
+    "message": "DivMagic স্বাগতম!"
+  },
+  "loginPageBody1": {
+    "message": "আমাদের শক্তিশালী ওয়েব ডেভেলপমেন্ট টুল অ্যাক্সেস করতে, আমরা আপনাকে একটি অ্যাকাউন্ট বা লগইন করতে আমন্ত্রণ জানাই।"
+  },
+  "loginPageBody2": {
+    "message": "আপনি DivMagic-এ সাবস্ক্রিপশন সহ একটি বিরামহীন উন্নয়ন কর্মপ্রবাহ উপভোগ করবেন।"
+  },
+  "loginPageEmailLabel": {
+    "message": "তোমার ইমেইল"
+  },
+  "loginPageLoginButton": {
+    "message": "প্রবেশ করুন"
+  },
+  "loginPageError": {
+    "message": "লগ ইন করা যায়নি৷ নিশ্চিত করুন যে আপনি যে ইমেল ঠিকানাটি দিয়ে সদস্যতা নিয়েছেন সেটি ব্যবহার করছেন৷"
+  },
+  "loginPageNewHere": {
+    "message": "DivMagic এ নতুন?"
+  },
+  "loginPageSignUp": {
+    "message": "নিবন্ধন করুন"
+  },
+  "popupCopyInstructions": {
+    "message": "যেকোনো উপাদানে ক্লিক করুন বা কী টিপুন:"
+  },
+  "popupSettings": {
+    "message": "সেটিংস"
+  },
+  "popupFeedback": {
+    "message": "প্রতিক্রিয়া"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "উপাদান বিন্যাস"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "শৈলী বিন্যাস"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "ইনলাইন সিএসএস"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "বাহ্যিক CSS"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "স্থানীয় সিএসএস"
+  },
+  "copied": {
+    "message": "অনুলিপি করা হয়েছে!"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic এটি অ্যাক্সেস করতে এই আইফ্রেমটি খুলতে হবে।"
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic এই iframe অ্যাক্সেস করতে পারে না।"
+  },
+  "iframeOpenText": {
+    "message": "আইফ্রেম খুলুন"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "DevTools প্যানেল"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "এখানে তার বিশদ বিবরণ দেখতে \"এলিমেন্টস\" ট্যাব থেকে একটি উপাদান নির্বাচন করুন৷"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "নির্বাচিত উপাদান"
+  },
+  "devtoolsCopyElement": {
+    "message": "অনুলিপি উপাদান"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "কপি করা হচ্ছে"
+  },
+  "panelCopyElementCopied": {
+    "message": "কপি করা হয়েছে"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "নির্বাচিত উপাদান অনুলিপি অপারেশন জন্য অনুমোদিত নয়"
+  },
+  "modalParentButtonText": {
+    "message": "অভিভাবক উপাদান"
+  },
+  "modalParentButtonTooltip": {
+    "message": "বর্তমান নির্বাচনের মূল উপাদান নির্বাচন করুন"
+  },
+  "modalChildButtonText": {
+    "message": "শিশু উপাদান"
+  },
+  "modalChildButtonTooltip": {
+    "message": "নির্বাচনকে চাইল্ড এলিমেন্টে নিয়ে যান"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "কপি মোড"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "বর্তমান নির্বাচনের জন্য অনুলিপি মোড নির্বাচন করুন। আমরা বেশিরভাগ ব্যবহারের ক্ষেত্রে \"অভিযোজিত\" সুপারিশ করি।"
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "সঠিক"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "সমস্ত শৈলীর একটি সঠিক অনুলিপি, উপাদানটি উৎসের মতো দেখাচ্ছে তা নিশ্চিত করে।"
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "অভিযোজনযোগ্য"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "উপাদানটির গঠন এবং মৌলিক চেহারা বজায় রাখার জন্য প্রয়োজনীয় শুধুমাত্র সবচেয়ে প্রয়োজনীয় শৈলীগুলি অন্তর্ভুক্ত করে। কাস্টমাইজ করা সহজ।"
+  },
+  "modalCopyButtonText": {
+    "message": "কপি"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "অনুলিপি করা হচ্ছে..."
+  },
+  "onText": {
+    "message": "চালু"
+  },
+  "offText": {
+    "message": "বন্ধ"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "আপনি যদি কপি করা কোডে [[MEDIAQUERYXYZ]] CSS শৈলী অন্তর্ভুক্ত করতে চান তবে নির্বাচন করুন।"
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "অনুলিপি করা উপাদানের জন্য বিন্যাস নির্বাচন করুন"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "কপি করা শৈলীর জন্য CSS বিন্যাস নির্বাচন করুন"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "অটো হাইড পপআপ"
+  },
+  "modalDragButtonTooltip": {
+    "message": "সরাতে টেনে আনুন"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "বন্ধ"
+  },
+  "modalStudioExportTooltip": {
+    "message": "DivMagic Studio খুলুন"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "সুষম"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "ছদ্ম-উপাদানগুলি অন্তর্ভুক্ত করে যেমন ::before এবং ::after, যা ভিজ্যুয়াল ফলাফলকে উল্লেখযোগ্যভাবে প্রভাবিত করতে পারে কিন্তু কোডটিকে অত্যধিকভাবে ফোলাবে না।"
+  },
+  "contextMenuInspect": {
+    "message": "পরিদর্শক"
+  },
+  "extCommandChooseElement": {
+    "message": "হোভার করার সময় কপি করার জন্য উপাদান বাছুন"
+  },
+  "optionsTitle": {
+    "message": "অপশন"
+  },
+  "optionsFeedback": {
+    "message": "আপনার যদি কোন প্রতিক্রিয়া বা পরামর্শ থাকে, তাহলে আমাদের জানান!"
+  },
+  "optionsShortcuts": {
+    "message": "কীবোর্ড শর্টকাট"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "শুধুমাত্র HTML"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "শুধুমাত্র CSS"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "ইন্টিগ্রেশন (ওয়ার্ডপ্রেস)"
+  },
+  "modalExportToStudioText": {
+    "message": "স্টুডিওতে রফতানি"
+  },
+  "modalLeftButtonText": {
+    "message": "বাম শিশু উপাদান"
+  },
+  "modalRightButtonText": {
+    "message": "ডান শিশু উপাদান"
+  },
+  "toolboxText": {
+    "message": "টুলবক্স"
+  },
+  "toolBoxCopyElementText": {
+    "message": "উপাদান অনুলিপি"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "উপাদান অনুলিপি"
+  },
+  "toolBoxInspectorText": {
+    "message": "পরিদর্শক"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "একটি উপাদান বিশদ দেখুন"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "অনুলিপি ফন্ট"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "ওয়েব ফন্ট"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "অনুলিপি ফন্ট"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "ওয়েবসাইট কেবলমাত্র ডিফল্টরূপে সিস্টেম ফন্টগুলি ব্যবহার করে"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "অনুলিপি করতে ক্লিক করুন"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "অনুলিপি"
+  },
+  "toolBoxShowFontsText": {
+    "message": "ফন্ট"
+  },
+  "toolBoxShowFontsWindowText": {
+    "message": "ফন্ট"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "প্রতিটি ট্যাগ কী ফন্ট ব্যবহার করছে তা জানুন"
+  },
+  "toolBoxThrashText": {
+    "message": "আবর্জনা"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "উপাদানগুলি লুকান / সরান"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "একটি উপাদান লুকান বা সরান"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "লুকান"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "অপসারণ"
+  },
+  "toolBoxColorPickerText": {
+    "message": "রঙ বাছাইকারী"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "রঙ বাছাইকারী"
+  },
+  "toolBoxGridsText": {
+    "message": "গ্রিডস"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "প্রতিটি উপাদানের সীমানা যুক্ত করে"
+  },
+  "modalCopyViewText": {
+    "message": "অনুলিপি"
+  },
+  "modalEditorViewText": {
+    "message": "সম্পাদক"
+  },
+  "modalAddStylesText": {
+    "message": "শৈলী যুক্ত করুন"
+  },
+  "activateToolbox": {
+    "message": "টুলবক্স সক্রিয় করুন"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "বাম ভাইবোন উপাদানটিতে নির্বাচনটি সরান"
+  },
+  "modalRightButtonTooltip": {
+    "message": "নির্বাচনটি ডান ভাইবোন উপাদানটিতে সরান"
+  },
+  "modalClassSettingsText": {
+    "message": "শ্রেণি সেটিংস:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "আসল এইচটিএমএল বৈশিষ্ট্য"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "ডিভম্যাগিক সিএসএস ক্লাস"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "আসল সিএসএস ক্লাস"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "ডিভম্যাগিক এইচটিএমএল বৈশিষ্ট্য"
+  },
+  "modalAddCssAttributeText": {
+    "message": "সিএসএস বৈশিষ্ট্য"
+  },
+  "modalAddCssValueText": {
+    "message": "সিএসএস মান"
+  },
+  "modalInvalidCssValueText": {
+    "message": "অবৈধ সিএসএস মান"
+  },
+  "modalElementSettingsText": {
+    "message": "উপাদান সেটিংস:"
+  },
+  "modalSaveElementText": {
+    "message": "উপাদান সংরক্ষণ করুন"
+  },
+  "modalSavingElementText": {
+    "message": "সংরক্ষণ ..."
+  },
+  "modalSavedElementText": {
+    "message": "সংরক্ষিত!"
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "ভুল যাচাইকরণ কোড। আপনি সঠিক কোডটি প্রবেশ করেছেন তা নিশ্চিত করুন।"
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "যাচাইকরণ বাতিল করুন"
+  },
+  "loginPageVerifyButton": {
+    "message": "যাচাই করুন"
+  },
+  "loginPageVerificationCode": {
+    "message": "যাচাইকরণ কোড"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "আপনার ইমেলটিতে একটি যাচাইকরণ কোড প্রেরণ করা হয়েছে। নীচে এটি প্রবেশ করুন।"
+  },
+  "loginPageVerifyEmail": {
+    "message": "আপনার ইমেইল যাচাই করুন"
+  },
+  "modalGoToLibraryText": {
+    "message": "আমার লাইব্রেরিতে যান"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "প্রতি পৃষ্ঠা উপাদান"
+  },
+  "devtoolsLibraryNext": {
+    "message": "পরবর্তী"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "আগে"
+  },
+  "devtoolsLibrary": {
+    "message": "গ্রন্থাগার"
+  },
+  "modalCopyNotification": {
+    "message": "উপাদান অনুলিপি!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "আপনার লাইব্রেরি খালি। এটি এখানে দেখতে একটি উপাদান সংরক্ষণ করুন।"
+  },
+  "publishDate": {
+    "message": "মার্চ 31 সংস্করণ"
+  },
+  "modalExportNotification": {
+    "message": "উপাদান রফতানি!"
+  },
+  "optionsChooseLanguage": {
+    "message": "একটি ভাষা চয়ন করুন"
+  },
+  "modalSaveNotification": {
+    "message": "উপাদান সংরক্ষণ!"
+  }
+}

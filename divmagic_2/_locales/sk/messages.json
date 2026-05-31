@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic – štýl kopírovania"
+  },
+  "extDescription": {
+    "message": "Skopírujte prvky z ľubovoľnej webovej stránky ako opätovne použiteľné webové komponenty. Získajte kód HTML, CSS, React, JSX alebo Tailwind CSS."
+  },
+  "loginPageTitle": {
+    "message": "Vitajte v DivMagic!"
+  },
+  "loginPageBody1": {
+    "message": "Ak chcete získať prístup k nášmu výkonnému nástroju na vývoj webu, pozývame vás, aby ste si vytvorili účet alebo sa prihlásili."
+  },
+  "loginPageBody2": {
+    "message": "S predplatným DivMagic si užijete bezproblémový vývojový pracovný postup."
+  },
+  "loginPageEmailLabel": {
+    "message": "Tvoj email"
+  },
+  "loginPageLoginButton": {
+    "message": "Prihlásiť sa"
+  },
+  "loginPageError": {
+    "message": "Nepodarilo sa prihlásiť. Uistite sa, že používate e-mailovú adresu, s ktorou ste sa prihlásili na odber."
+  },
+  "loginPageNewHere": {
+    "message": "Ste novým používateľom DivMagic?"
+  },
+  "loginPageSignUp": {
+    "message": "Prihlásiť Se"
+  },
+  "popupCopyInstructions": {
+    "message": "Kliknite na ľubovoľný prvok alebo stlačte kláves:"
+  },
+  "popupSettings": {
+    "message": "nastavenie"
+  },
+  "popupFeedback": {
+    "message": "Spätná väzba"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "Formát komponentov"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "Formát štýlu"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "Inline CSS"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "Externé CSS"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "Miestny CSS"
+  },
+  "copied": {
+    "message": "Skopírované!"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic potrebuje otvoriť tento prvok iframe, aby k nemu mal prístup."
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic nemá prístup k tomuto prvku iframe."
+  },
+  "iframeOpenText": {
+    "message": "Otvoriť prvok iframe"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "[[DEVTOOLS]] Panel"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "Ak chcete zobraziť podrobnosti o prvku, vyberte prvok na karte Prvky"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "Vybraný prvok"
+  },
+  "devtoolsCopyElement": {
+    "message": "Kopírovať prvok"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "Kopírovanie"
+  },
+  "panelCopyElementCopied": {
+    "message": "Skopírované"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "Vybratý prvok nie je povolený pre operácie kopírovania"
+  },
+  "modalParentButtonText": {
+    "message": "Rodičovský prvok"
+  },
+  "modalParentButtonTooltip": {
+    "message": "Vyberte nadradený prvok aktuálneho výberu"
+  },
+  "modalChildButtonText": {
+    "message": "Detský prvok"
+  },
+  "modalChildButtonTooltip": {
+    "message": "Presuňte výber na podradený prvok"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "Režim kopírovania"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "Vyberte režim kopírovania pre aktuálny výber. Pre väčšinu prípadov použitia odporúčame „Adaptabilné“."
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "Presne"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "Presná kópia všetkých štýlov, ktorá zaisťuje, že prvok vyzerá ako zdroj."
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "Prispôsobivé"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "Zahŕňa len tie najpodstatnejšie štýly potrebné na zachovanie štruktúry a základného vzhľadu prvku. Jednoduché prispôsobenie."
+  },
+  "modalCopyButtonText": {
+    "message": "Kopírovať"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "Kopíruje sa..."
+  },
+  "onText": {
+    "message": "Zapnuté"
+  },
+  "offText": {
+    "message": "Vypnuté"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "Vyberte, či chcete, aby boli do skopírovaného kódu zahrnuté štýly CSS [[MEDIAQUERYXYZ]]."
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "Vyberte formát pre kopírovaný komponent"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "Vyberte formát CSS pre skopírované štýly"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "Automaticky skryť kontextové okno"
+  },
+  "modalDragButtonTooltip": {
+    "message": "Presuňte sa potiahnutím"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "Zavrieť"
+  },
+  "modalStudioExportTooltip": {
+    "message": "Otvorte v DivMagic Studio"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "Vyvážený"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "Zahŕňa pseudoprvky ako ::before a ::after, ktoré môžu výrazne ovplyvniť vizuálny výsledok, ale príliš nenafukujú kód."
+  },
+  "contextMenuInspect": {
+    "message": "inšpektor"
+  },
+  "extCommandChooseElement": {
+    "message": "Vyberte prvok, ktorý chcete skopírovať pri umiestnení kurzora myši"
+  },
+  "optionsTitle": {
+    "message": "možnosti"
+  },
+  "optionsFeedback": {
+    "message": "Ak máte nejaké pripomienky alebo návrhy, dajte nám vedieť!"
+  },
+  "optionsShortcuts": {
+    "message": "Klávesové skratky"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "Iba HTML"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "Iba CSS"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "Integrácie (WordPress)"
+  },
+  "modalExportToStudioText": {
+    "message": "Export do štúdia"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "Pridáva hranice do každého prvku"
+  },
+  "modalLeftButtonText": {
+    "message": "Ľavicový prvok dieťaťa"
+  },
+  "modalRightButtonText": {
+    "message": "Prvok pravého dieťaťa"
+  },
+  "toolboxText": {
+    "message": "Súbor nástrojov"
+  },
+  "toolBoxCopyElementText": {
+    "message": "Kopírovanie prvku"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "Kopírovanie prvku"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "Pozri detail prvku"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "Kopírovať písmo"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "Písma"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "Kopírovať písmo"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "Táto webová stránka používa systémové písma"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "Kliknutím na skopírovanie"
+  },
+  "toolBoxShowFontsText": {
+    "message": "Písma"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "Vedzte, aké písmo používa každá značka"
+  },
+  "toolBoxThrashText": {
+    "message": "Smeti"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "Skryť / odstrániť prvky"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "Skryť alebo odstrániť prvok"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "Skryť"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "Odložiť"
+  },
+  "toolBoxColorPickerText": {
+    "message": "Zberač farieb"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "Zberač farieb"
+  },
+  "toolBoxGridsText": {
+    "message": "Mriežka"
+  },
+  "modalCopyViewText": {
+    "message": "Kopírovať"
+  },
+  "modalAddStylesText": {
+    "message": "Pridať štýly"
+  },
+  "activateToolbox": {
+    "message": "Aktivujte súbor nástrojov"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "Presuňte výber do ľavého súrodeneckého prvku"
+  },
+  "modalRightButtonTooltip": {
+    "message": "Presuňte výber do pravého súrodeneckého prvku"
+  },
+  "modalClassSettingsText": {
+    "message": "Nastavenia triedy:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "Pôvodné atribúty HTML"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "DivMagic triedy CSS"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "Originálne triedy CSS"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "DivMagic atribúty HTML"
+  },
+  "modalAddCssAttributeText": {
+    "message": "Atribút CSS"
+  },
+  "modalAddCssValueText": {
+    "message": "CSS hodnota"
+  },
+  "modalInvalidCssValueText": {
+    "message": "Neplatná hodnota CSS"
+  },
+  "modalElementSettingsText": {
+    "message": "Nastavenia prvkov:"
+  },
+  "modalSaveElementText": {
+    "message": "Uložiť prvok"
+  },
+  "modalSavingElementText": {
+    "message": "Úspora ..."
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "Nesprávny overovací kód. Uistite sa, že ste zadali správny kód."
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "Zrušenie overenia"
+  },
+  "loginPageVerifyButton": {
+    "message": "Preveriť"
+  },
+  "loginPageVerificationCode": {
+    "message": "Overovací kód"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "Do vášho e -mailu bol odoslaný overovací kód. Zadajte ho nižšie."
+  },
+  "loginPageVerifyEmail": {
+    "message": "Overte svoj e -mail"
+  },
+  "modalGoToLibraryText": {
+    "message": "Choďte do mojej knižnice"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "Komponenty na stránku"
+  },
+  "devtoolsLibrary": {
+    "message": "Knižnica"
+  },
+  "modalCopyNotification": {
+    "message": "Komponent skopírovaný!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "Vaša knižnica je prázdna. Uložte komponent, aby ste ju videli tu."
+  },
+  "publishDate": {
+    "message": "31. marca verzia"
+  },
+  "modalExportNotification": {
+    "message": "Exportovaný komponent!"
+  },
+  "optionsChooseLanguage": {
+    "message": "Vyberte jazyk"
+  },
+  "modalSaveNotification": {
+    "message": "Komponent uložený!"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "Predchádzajúce"
+  },
+  "modalSavedElementText": {
+    "message": "Uložené!"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "Skopírované"
+  },
+  "modalEditorViewText": {
+    "message": "Editor"
+  },
+  "toolBoxInspectorText": {
+    "message": "inšpektor"
+  },
+  "devtoolsLibraryNext": {
+    "message": "Ďalšie"
+  }
+}

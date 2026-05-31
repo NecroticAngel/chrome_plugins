@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic - سبک کپی"
+  },
+  "extDescription": {
+    "message": "عناصر را از هر صفحه وب به عنوان اجزای وب قابل استفاده مجدد کپی کنید. کدهای HTML، CSS، React، JSX یا Tailwind CSS را دریافت کنید."
+  },
+  "loginPageTitle": {
+    "message": "به DivMagic خوش آمدید!"
+  },
+  "loginPageBody1": {
+    "message": "برای دسترسی به ابزار قدرتمند توسعه وب ما، از شما دعوت می کنیم یک حساب کاربری ایجاد کنید یا وارد شوید."
+  },
+  "loginPageBody2": {
+    "message": "با اشتراک در DivMagic از گردش کار توسعه یکپارچه لذت خواهید برد."
+  },
+  "loginPageEmailLabel": {
+    "message": "ایمیل شما"
+  },
+  "loginPageLoginButton": {
+    "message": "وارد شدن"
+  },
+  "loginPageError": {
+    "message": "نمی توان وارد سیستم شد. مطمئن شوید که از آدرس ایمیلی که با آن مشترک شده اید استفاده می کنید."
+  },
+  "loginPageNewHere": {
+    "message": "تازه با DivMagic؟"
+  },
+  "loginPageSignUp": {
+    "message": "ثبت نام"
+  },
+  "popupCopyInstructions": {
+    "message": "روی هر عنصر کلیک کنید یا کلید را فشار دهید:"
+  },
+  "popupSettings": {
+    "message": "تنظیمات"
+  },
+  "popupFeedback": {
+    "message": "بازخورد"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "فرمت کامپوننت"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "فرمت سبک"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "CSS درون خطی"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "CSS خارجی"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "CSS محلی"
+  },
+  "copied": {
+    "message": "کپی شده!"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic باید این iframe را برای دسترسی به آن باز کند."
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic نمی تواند به این iframe دسترسی پیدا کند."
+  },
+  "iframeOpenText": {
+    "message": "iframe را باز کنید"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "[[DEVTOOLS]] پنل"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "یک عنصر را از برگه \"Elements\" انتخاب کنید تا جزئیات آن را در اینجا ببینید"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "عنصر انتخاب شده"
+  },
+  "devtoolsCopyElement": {
+    "message": "کپی عنصر"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "کپی برداری"
+  },
+  "panelCopyElementCopied": {
+    "message": "کپی شد"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "عنصر انتخاب شده برای عملیات کپی مجاز نیست"
+  },
+  "modalParentButtonText": {
+    "message": "عنصر والد"
+  },
+  "modalParentButtonTooltip": {
+    "message": "عنصر والد انتخاب فعلی را انتخاب کنید"
+  },
+  "modalChildButtonText": {
+    "message": "عنصر کودک"
+  },
+  "modalChildButtonTooltip": {
+    "message": "انتخاب را به عنصر فرزند منتقل کنید"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "حالت کپی"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "حالت کپی را برای انتخاب فعلی انتخاب کنید. ما \"تطبیق پذیر\" را برای بیشتر موارد استفاده توصیه می کنیم."
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "دقیق"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "یک کپی دقیق از همه سبک ها، اطمینان حاصل می کند که عنصر شبیه منبع است."
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "سازگار"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "فقط شامل ضروری ترین سبک های مورد نیاز برای حفظ ساختار و ظاهر اصلی عنصر است. آسان برای سفارشی کردن."
+  },
+  "modalCopyButtonText": {
+    "message": "کپی 🀄"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "کپی برداری..."
+  },
+  "onText": {
+    "message": "بر"
+  },
+  "offText": {
+    "message": "خاموش"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "اگر می خواهید سبک های CSS [[MEDIAQUERYXYZ]] در کد کپی شده گنجانده شود، انتخاب کنید."
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "قالب را برای مؤلفه کپی شده انتخاب کنید"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "فرمت CSS را برای سبک های کپی شده انتخاب کنید"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "مخفی کردن خودکار پنجره بازشو"
+  },
+  "modalDragButtonTooltip": {
+    "message": "برای حرکت دادن بکشید"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "بستن"
+  },
+  "modalStudioExportTooltip": {
+    "message": "در DivMagic Studio باز کنید"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "متعادل"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "شبه عناصری مانند ::before و ::after را در خود جای داده است که می تواند به طور قابل توجهی بر روی نتیجه بصری تأثیر بگذارد، اما کد را بیش از حد پر نمی کند."
+  },
+  "contextMenuInspect": {
+    "message": "بازرس"
+  },
+  "extCommandChooseElement": {
+    "message": "عنصری را برای کپی در حین شناور انتخاب کنید"
+  },
+  "optionsTitle": {
+    "message": "گزینه ها"
+  },
+  "optionsFeedback": {
+    "message": "اگر بازخورد یا پیشنهادی دارید، لطفا به ما اطلاع دهید!"
+  },
+  "optionsShortcuts": {
+    "message": "میانبرهای صفحه کلید"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "فقط HTML"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "فقط CSS"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "ادغام (وردپرس)"
+  },
+  "modalExportToStudioText": {
+    "message": "صادرات به استودیو"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "مرزها را به هر عنصر اضافه می کند"
+  },
+  "modalLeftButtonText": {
+    "message": "عنصر کودک چپ"
+  },
+  "modalRightButtonText": {
+    "message": "عنصر کودک راست"
+  },
+  "toolboxText": {
+    "message": "جعبه ابزار"
+  },
+  "toolBoxCopyElementText": {
+    "message": "عنصر کپی"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "عنصر کپی"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "جزئیات عنصر را مشاهده کنید"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "فونت کپی کردن"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "قلم های وب"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "فونت کپی کردن"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "این وب سایت از فونت های سیستم استفاده می کند"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "برای کپی کلیک کنید"
+  },
+  "toolBoxShowFontsText": {
+    "message": "قلم"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "بدانید که هر برچسب از چه فونت استفاده می کند"
+  },
+  "toolBoxThrashText": {
+    "message": "زباله ها"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "عناصر را مخفی / حذف کنید"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "یک عنصر را مخفی یا حذف کنید"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "پنهان شدن"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "برداشتن"
+  },
+  "toolBoxColorPickerText": {
+    "message": "انتخاب کننده رنگ"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "انتخاب کننده رنگ"
+  },
+  "toolBoxGridsText": {
+    "message": "شبکه"
+  },
+  "modalCopyViewText": {
+    "message": "کپی 🀄"
+  },
+  "modalAddStylesText": {
+    "message": "سبک ها را اضافه کنید"
+  },
+  "activateToolbox": {
+    "message": "جعبه ابزار را فعال کنید"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "انتخاب را به عنصر خواهر و برادر چپ منتقل کنید"
+  },
+  "modalRightButtonTooltip": {
+    "message": "انتخاب را به عنصر خواهر و برادر راست منتقل کنید"
+  },
+  "modalClassSettingsText": {
+    "message": "تنظیمات کلاس:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "ویژگی های HTML اصلی"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "کلاسهای CSS Divmagic"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "کلاسهای اصلی CSS"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "ویژگی های html divmagic"
+  },
+  "modalAddCssAttributeText": {
+    "message": "ویژگی CSS"
+  },
+  "modalAddCssValueText": {
+    "message": "مقدار CSS"
+  },
+  "modalInvalidCssValueText": {
+    "message": "ارزش CSS نامعتبر است"
+  },
+  "modalElementSettingsText": {
+    "message": "تنظیمات عنصر:"
+  },
+  "modalSaveElementText": {
+    "message": "عنصر ذخیره"
+  },
+  "modalSavingElementText": {
+    "message": "صرفه جویی در..."
+  },
+  "modalSavedElementText": {
+    "message": "ذخیره!"
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "کد تأیید اشتباه لطفاً مطمئن شوید که کد صحیح را وارد کرده اید."
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "تأیید را لغو کنید"
+  },
+  "loginPageVerifyButton": {
+    "message": "تأیید کردن"
+  },
+  "loginPageVerificationCode": {
+    "message": "کد تایید"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "یک کد تأیید به ایمیل شما ارسال شده است. لطفا آن را در زیر وارد کنید."
+  },
+  "loginPageVerifyEmail": {
+    "message": "ایمیل خود را تایید کنید"
+  },
+  "modalGoToLibraryText": {
+    "message": "به کتابخانه من بروید"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "مؤلفه ها در هر صفحه"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "قبلی"
+  },
+  "devtoolsLibrary": {
+    "message": "کتابخانه"
+  },
+  "modalCopyNotification": {
+    "message": "مؤلفه کپی شده!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "کتابخانه شما خالی است. برای دیدن آن در اینجا یک مؤلفه ذخیره کنید."
+  },
+  "publishDate": {
+    "message": "نسخه 31 مارس"
+  },
+  "modalExportNotification": {
+    "message": "مؤلفه صادر شده!"
+  },
+  "optionsChooseLanguage": {
+    "message": "یک زبان را انتخاب کنید"
+  },
+  "modalSaveNotification": {
+    "message": "مؤلفه ذخیره شد!"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "کپی شده"
+  },
+  "modalEditorViewText": {
+    "message": "ویرایشگر"
+  },
+  "toolBoxInspectorText": {
+    "message": "بازرس"
+  },
+  "devtoolsLibraryNext": {
+    "message": "بعد"
+  }
+}

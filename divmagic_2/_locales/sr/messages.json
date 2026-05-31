@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic - стил копирања"
+  },
+  "extDescription": {
+    "message": "Копирајте елементе са било које веб странице као веб компоненте за вишекратну употребу. Набавите HTML, CSS, React, JSX или Tailwind CSS код."
+  },
+  "loginPageTitle": {
+    "message": "Добродошли у DivMagic!"
+  },
+  "loginPageBody1": {
+    "message": "Да бисте приступили нашем моћном алату за веб развој, позивамо вас да направите налог или се пријавите."
+  },
+  "loginPageBody2": {
+    "message": "Уживаћете у беспрекорном току развоја уз претплату на DivMagic."
+  },
+  "loginPageEmailLabel": {
+    "message": "Ваш емаил"
+  },
+  "loginPageLoginButton": {
+    "message": "Пријавите се"
+  },
+  "loginPageError": {
+    "message": "Не могу да се пријавим. Проверите да ли користите адресу е-поште на коју сте се пријавили."
+  },
+  "loginPageNewHere": {
+    "message": "Нови сте у DivMagic-у?"
+  },
+  "loginPageSignUp": {
+    "message": "Пријави се"
+  },
+  "popupCopyInstructions": {
+    "message": "Кликните на било који елемент или притисните тастер:"
+  },
+  "popupSettings": {
+    "message": "Подешавања"
+  },
+  "popupFeedback": {
+    "message": "Повратна информација"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "Цомпонент Формат"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "Формат стила"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "Инлине CSS"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "Екстерни CSS"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "Локални CSS"
+  },
+  "copied": {
+    "message": "Копирано!"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic треба да отвори овај ифраме да би му приступио."
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic не може да приступи овом ифраме-у."
+  },
+  "iframeOpenText": {
+    "message": "Отворите ифраме"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "DevTools Панел"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "Изаберите елемент са картице „Елементи“ да бисте видели његове детаље овде"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "Изабрани елемент"
+  },
+  "devtoolsCopyElement": {
+    "message": "Копирај елемент"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "Копирање"
+  },
+  "panelCopyElementCopied": {
+    "message": "Копирано"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "Изабрани елемент није дозвољен за операције копирања"
+  },
+  "modalParentButtonText": {
+    "message": "Парент Елемент"
+  },
+  "modalParentButtonTooltip": {
+    "message": "Изаберите родитељски елемент тренутног избора"
+  },
+  "modalChildButtonText": {
+    "message": "Цхилд Елемент"
+  },
+  "modalChildButtonTooltip": {
+    "message": "Преместите избор на подређени елемент"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "Режим копирања"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "Изаберите режим копирања за тренутни избор. Препоручујемо „Прилагодљиво“ за већину случајева коришћења."
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "Тачно"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "Тачна копија свих стилова, осигуравајући да елемент изгледа као извор."
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "Адаптабле"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "Укључује само најбитније стилове потребне за одржавање структуре и основног изгледа елемента. Лако се прилагођава."
+  },
+  "modalCopyButtonText": {
+    "message": "Копирај"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "Копирање..."
+  },
+  "onText": {
+    "message": "на"
+  },
+  "offText": {
+    "message": "Ван"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "Изаберите ако желите да Media Query CSS стилови буду укључени у копирани код."
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "Изаберите формат за копирану компоненту"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "Изаберите CSS формат за копиране стилове"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "Ауто Хиде Попуп"
+  },
+  "modalDragButtonTooltip": {
+    "message": "Превуците да бисте померили"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "Близу"
+  },
+  "modalStudioExportTooltip": {
+    "message": "Отворите у DivMagic Studio"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "Баланцед"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "Укључује псеудоелементе као што су ::before и ::after, који могу значајно утицати на визуелни резултат, али не надувавају код претерано."
+  },
+  "contextMenuInspect": {
+    "message": "инспекторе"
+  },
+  "extCommandChooseElement": {
+    "message": "Изаберите елемент за копирање док лебдите"
+  },
+  "optionsTitle": {
+    "message": "Опције"
+  },
+  "optionsFeedback": {
+    "message": "Ако имате било какве повратне информације или сугестије, јавите нам!"
+  },
+  "optionsShortcuts": {
+    "message": "Пречице на тастатури"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "Само ХТМЛ"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "Само ЦСС"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "Интеграције (ВордПресс)"
+  },
+  "modalExportToStudioText": {
+    "message": "Извоз у студио"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "Додаје границе на сваки елемент"
+  },
+  "modalLeftButtonText": {
+    "message": "Леви елемент детета"
+  },
+  "modalRightButtonText": {
+    "message": "Прави елемент за децу"
+  },
+  "toolboxText": {
+    "message": "Кутија за алате"
+  },
+  "toolBoxCopyElementText": {
+    "message": "Копирање елемента"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "Копирање елемента"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "Погледајте детаље елемента"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "Копија фонта"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "Веб фонтови"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "Копија фонта"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "Ова веб страница користи системске фонтове"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "Кликните да бисте копирали"
+  },
+  "toolBoxShowFontsText": {
+    "message": "Фонтови"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "Знајте који фонт свака ознака користи"
+  },
+  "toolBoxThrashText": {
+    "message": "Смеће"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "Сакриј / уклони елементе"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "Сакриј или уклони елемент"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "Сакрити"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "Скинути"
+  },
+  "toolBoxColorPickerText": {
+    "message": "Виљушкар у боји"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "Виљушкар у боји"
+  },
+  "toolBoxGridsText": {
+    "message": "Решетке"
+  },
+  "modalCopyViewText": {
+    "message": "Копија"
+  },
+  "modalAddStylesText": {
+    "message": "Додајте стилове"
+  },
+  "activateToolbox": {
+    "message": "Активирајте алатни оквир"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "Померите избор у леви сестрински елемент"
+  },
+  "modalRightButtonTooltip": {
+    "message": "Померите избор у десни сестрински елемент"
+  },
+  "modalClassSettingsText": {
+    "message": "Подешавања класе:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "Оригинални ХТМЛ атрибути"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "ДИВМАГИЦ ЦСС ЦЛАСС"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "Оригинал ЦСС класе"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "Дивмагиц ХТМЛ атрибути"
+  },
+  "modalAddCssAttributeText": {
+    "message": "ЦСС атрибут"
+  },
+  "modalAddCssValueText": {
+    "message": "ЦСС вредност"
+  },
+  "modalInvalidCssValueText": {
+    "message": "Неважећа вредност ЦСС-а"
+  },
+  "modalElementSettingsText": {
+    "message": "Подешавања елемената:"
+  },
+  "modalSaveElementText": {
+    "message": "Уштеда елемената"
+  },
+  "modalSavingElementText": {
+    "message": "Уштеда..."
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "Погрешан верификациони код. Обавезно уверите се да сте унели исправан код."
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "Откажи верификацију"
+  },
+  "loginPageVerifyButton": {
+    "message": "Проверити"
+  },
+  "loginPageVerificationCode": {
+    "message": "Верификациони код"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "Послат је верификациони код на вашу е-пошту. Унесите га испод."
+  },
+  "loginPageVerifyEmail": {
+    "message": "Потврдити своју емаил"
+  },
+  "modalGoToLibraryText": {
+    "message": "Иди у моју библиотеку"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "Компоненте по страници"
+  },
+  "devtoolsLibrary": {
+    "message": "Библиотека"
+  },
+  "modalCopyNotification": {
+    "message": "Компонента копирана!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "Ваша библиотека је празна. Спремите компоненту да бисте је видели овде."
+  },
+  "publishDate": {
+    "message": "31. марта верзија"
+  },
+  "modalExportNotification": {
+    "message": "Компонента се извозила!"
+  },
+  "optionsChooseLanguage": {
+    "message": "Изаберите језик"
+  },
+  "modalSaveNotification": {
+    "message": "Компонента је сачувана!"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "Претходна"
+  },
+  "modalSavedElementText": {
+    "message": "Сачувано!"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "Копирано"
+  },
+  "modalEditorViewText": {
+    "message": "Едитор"
+  },
+  "toolBoxInspectorText": {
+    "message": "инспекторе"
+  },
+  "devtoolsLibraryNext": {
+    "message": "Следећи"
+  }
+}

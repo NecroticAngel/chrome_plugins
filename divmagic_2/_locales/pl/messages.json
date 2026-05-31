@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic — Kopiuj styl"
+  },
+  "extDescription": {
+    "message": "Kopiuj elementy z dowolnej strony internetowej jako komponenty sieciowe wielokrotnego użytku. Uzyskaj kod HTML, CSS, React, JSX lub Tailwind CSS."
+  },
+  "loginPageTitle": {
+    "message": "Witamy w DivMagic!"
+  },
+  "loginPageBody1": {
+    "message": "Aby uzyskać dostęp do naszego potężnego narzędzia do tworzenia stron internetowych, zapraszamy do utworzenia konta lub zalogowania się."
+  },
+  "loginPageBody2": {
+    "message": "Dzięki subskrypcji DivMagic będziesz cieszyć się bezproblemowym przepływem pracy programistycznej."
+  },
+  "loginPageEmailLabel": {
+    "message": "Twój email"
+  },
+  "loginPageLoginButton": {
+    "message": "Zaloguj sie"
+  },
+  "loginPageError": {
+    "message": "Nie można się zalogować. Upewnij się, że używasz adresu e-mail, którego subskrybowałeś."
+  },
+  "loginPageNewHere": {
+    "message": "Nowy w DivMagic?"
+  },
+  "loginPageSignUp": {
+    "message": "Zapisać się"
+  },
+  "popupCopyInstructions": {
+    "message": "Kliknij na dowolny element lub naciśnij klawisz:"
+  },
+  "popupSettings": {
+    "message": "Ustawienia"
+  },
+  "popupFeedback": {
+    "message": "Informacja zwrotna"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "Format komponentu"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "Format stylu"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "Wbudowany CSS"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "CSS zewnętrzny"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "Lokalny CSS"
+  },
+  "copied": {
+    "message": "Skopiowane!"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic musi otworzyć tę ramkę iframe, aby uzyskać do niej dostęp."
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic nie może uzyskać dostępu do tego elementu iframe."
+  },
+  "iframeOpenText": {
+    "message": "Otwórz element iframe"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "[[DEVTOOLS]] Panel"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "Wybierz element z zakładki „Elementy”, aby zobaczyć tutaj jego szczegóły"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "Wybrany element"
+  },
+  "devtoolsCopyElement": {
+    "message": "Skopiuj element"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "Biurowy"
+  },
+  "panelCopyElementCopied": {
+    "message": "Skopiowano"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "Wybrany element nie jest dozwolony dla operacji kopiowania"
+  },
+  "modalParentButtonText": {
+    "message": "Element nadrzędny"
+  },
+  "modalParentButtonTooltip": {
+    "message": "Wybierz element nadrzędny bieżącego zaznaczenia"
+  },
+  "modalChildButtonText": {
+    "message": "Element podrzędny"
+  },
+  "modalChildButtonTooltip": {
+    "message": "Przenieś zaznaczenie do elementu podrzędnego"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "Tryb kopiowania"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "Wybierz tryb kopiowania dla bieżącego zaznaczenia. W większości przypadków zalecamy opcję „Adapowalny”."
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "Dokładny"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "Dokładna kopia wszystkich stylów, zapewniająca, że ​​element wygląda jak źródło."
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "Dający się przystosować"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "Zawiera tylko najważniejsze style potrzebne do utrzymania struktury i podstawowego wyglądu elementu. Łatwe do dostosowania."
+  },
+  "modalCopyButtonText": {
+    "message": "Kopiuj"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "Biurowy..."
+  },
+  "onText": {
+    "message": "NA"
+  },
+  "offText": {
+    "message": "Wyłączony"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "Wybierz, czy chcesz, aby skopiowany kod zawierał [[MEDIAQUERYXYZ]] style CSS."
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "Wybierz format kopiowanego komponentu"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "Wybierz format CSS dla skopiowanych stylów"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "Automatyczne ukrywanie wyskakujących okienek"
+  },
+  "modalDragButtonTooltip": {
+    "message": "Przeciągnij aby poruszyć"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "Zamknąć"
+  },
+  "modalStudioExportTooltip": {
+    "message": "Otwórz w DivMagic Studio"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "Zrównoważony"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "Zawiera pseudoelementy, takie jak ::before i ::after, które mogą znacząco wpłynąć na efekt wizualny, ale nie powodują nadmiernego rozdęcia kodu."
+  },
+  "contextMenuInspect": {
+    "message": "Inspektor"
+  },
+  "extCommandChooseElement": {
+    "message": "Wybierz element do skopiowania po najechaniu myszką"
+  },
+  "optionsTitle": {
+    "message": "Opcje"
+  },
+  "optionsFeedback": {
+    "message": "Jeśli masz jakieś uwagi lub sugestie, daj nam znać!"
+  },
+  "optionsShortcuts": {
+    "message": "Skróty klawiszowe"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "Tylko HTML"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "Tylko CSS"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "Integracje (WordPress)"
+  },
+  "modalExportToStudioText": {
+    "message": "Eksport do studia"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "Dodaje granice do każdego elementu"
+  },
+  "modalLeftButtonText": {
+    "message": "Pozostawiony element dziecka"
+  },
+  "modalRightButtonText": {
+    "message": "Właściwy element dziecka"
+  },
+  "toolboxText": {
+    "message": "Przybornik"
+  },
+  "toolBoxCopyElementText": {
+    "message": "Element kopii"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "Element kopii"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "Zobacz szczegóły elementu"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "Czcionka kopiowania"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "Czcionki internetowe"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "Czcionka kopiowania"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "Ta strona internetowa korzysta z czcionek systemowych"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "Kliknij, aby skopiować"
+  },
+  "toolBoxShowFontsText": {
+    "message": "Czcionki"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "Wiedz, jakiego czcionka używa każdej znacznika"
+  },
+  "toolBoxThrashText": {
+    "message": "Śmieci"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "Ukryj / usuń elementy"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "Ukryj lub usuń element"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "Ukrywać"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "Usunąć"
+  },
+  "toolBoxColorPickerText": {
+    "message": "Narzędzie do wybierania kolorów"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "Narzędzie do wybierania kolorów"
+  },
+  "toolBoxGridsText": {
+    "message": "Siatki"
+  },
+  "modalCopyViewText": {
+    "message": "Kopiuj"
+  },
+  "modalAddStylesText": {
+    "message": "Dodaj style"
+  },
+  "activateToolbox": {
+    "message": "Aktywuj narzędzia"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "Przesuń wybór w lewy element rodzeństwa"
+  },
+  "modalRightButtonTooltip": {
+    "message": "Przesuń wybór w prawym elemencie rodzeństwa"
+  },
+  "modalClassSettingsText": {
+    "message": "Ustawienia klas:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "Oryginalne atrybuty HTML"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "Klasy DivMagic CSS"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "Oryginalne zajęcia CSS"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "DivMagic HTML Atrybuty"
+  },
+  "modalAddCssAttributeText": {
+    "message": "Atrybut CSS"
+  },
+  "modalAddCssValueText": {
+    "message": "Wartość CSS"
+  },
+  "modalInvalidCssValueText": {
+    "message": "Nieprawidłowa wartość CSS"
+  },
+  "modalElementSettingsText": {
+    "message": "Ustawienia elementu:"
+  },
+  "modalSaveElementText": {
+    "message": "Zapisz element"
+  },
+  "modalSavingElementText": {
+    "message": "Oszczędność..."
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "Niewłaściwy kod weryfikacyjny. Upewnij się, że wprowadziłeś odpowiedni kod."
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "Anuluj weryfikację"
+  },
+  "loginPageVerifyButton": {
+    "message": "Zweryfikować"
+  },
+  "loginPageVerificationCode": {
+    "message": "Kod weryfikacyjny"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "Kod weryfikacji został wysłany na Twój e -mail. Wprowadź to poniżej."
+  },
+  "loginPageVerifyEmail": {
+    "message": "zweryfikuj swój email"
+  },
+  "modalGoToLibraryText": {
+    "message": "Idź do mojej biblioteki"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "Komponenty na stronę"
+  },
+  "devtoolsLibrary": {
+    "message": "Biblioteka"
+  },
+  "modalCopyNotification": {
+    "message": "Komponent skopiowany!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "Twoja biblioteka jest pusta. Zapisz komponent, aby go zobaczyć tutaj."
+  },
+  "publishDate": {
+    "message": "Wersja 31 marca"
+  },
+  "modalExportNotification": {
+    "message": "Eksportowany komponent!"
+  },
+  "optionsChooseLanguage": {
+    "message": "Wybierz język"
+  },
+  "modalSaveNotification": {
+    "message": "Zapisany komponent!"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "Poprzedni"
+  },
+  "modalSavedElementText": {
+    "message": "Zapisano!"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "Skopiowano"
+  },
+  "modalEditorViewText": {
+    "message": "Redaktor"
+  },
+  "toolBoxInspectorText": {
+    "message": "Inspektor"
+  },
+  "devtoolsLibraryNext": {
+    "message": "Następny"
+  }
+}

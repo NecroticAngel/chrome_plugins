@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic - Kopiera stil"
+  },
+  "extDescription": {
+    "message": "Kopiera element från valfri webbsida som återanvändbara webbkomponenter. Hämta HTML, CSS, React, JSX eller Tailwind CSS-kod."
+  },
+  "loginPageTitle": {
+    "message": "Välkommen till DivMagic!"
+  },
+  "loginPageBody1": {
+    "message": "För att komma åt vårt kraftfulla webbutvecklingsverktyg inbjuder vi dig att skapa ett konto eller logga in."
+  },
+  "loginPageBody2": {
+    "message": "Du kommer att njuta av ett sömlöst utvecklingsarbetsflöde med en prenumeration på DivMagic."
+  },
+  "loginPageEmailLabel": {
+    "message": "Din email"
+  },
+  "loginPageLoginButton": {
+    "message": "Logga in"
+  },
+  "loginPageError": {
+    "message": "Det gick inte att logga in. Se till att du använder e-postadressen som du prenumererade med."
+  },
+  "loginPageNewHere": {
+    "message": "Ny på DivMagic?"
+  },
+  "loginPageSignUp": {
+    "message": "Bli Medlem"
+  },
+  "popupCopyInstructions": {
+    "message": "Klicka på valfritt element eller tryck på tangenten:"
+  },
+  "popupSettings": {
+    "message": "inställningar"
+  },
+  "popupFeedback": {
+    "message": "Respons"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "Komponentformat"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "Stilformat"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "Inline CSS"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "Extern CSS"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "Lokal CSS"
+  },
+  "copied": {
+    "message": "Kopierade!"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic måste öppna denna iframe för att komma åt den."
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic kan inte komma åt denna iframe."
+  },
+  "iframeOpenText": {
+    "message": "Öppna iframe"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "[[DEVTOOLS]] Panel"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "Välj ett element från fliken \"Element\" för att se detaljerna här"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "Valt element"
+  },
+  "devtoolsCopyElement": {
+    "message": "Kopiera element"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "Kopiering"
+  },
+  "panelCopyElementCopied": {
+    "message": "Kopierade"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "Det valda elementet är inte tillåtet för kopieringsoperationer"
+  },
+  "modalParentButtonText": {
+    "message": "Föräldraelement"
+  },
+  "modalParentButtonTooltip": {
+    "message": "Välj det överordnade elementet för den aktuella markeringen"
+  },
+  "modalChildButtonText": {
+    "message": "Barnelement"
+  },
+  "modalChildButtonTooltip": {
+    "message": "Flytta markeringen till det underordnade elementet"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "Kopieringsläge"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "Välj kopieringsläge för det aktuella valet. Vi rekommenderar \"Adaptable\" för de flesta användningsfall."
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "Exakt"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "En exakt kopia av alla stilar, vilket säkerställer att elementet ser ut som källan."
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "Anpassbar"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "Innehåller endast de mest väsentliga stilarna som behövs för att bibehålla elementets struktur och grundläggande utseende. Lätt att anpassa."
+  },
+  "modalCopyButtonText": {
+    "message": "Kopiera"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "Kopierar..."
+  },
+  "onText": {
+    "message": "På"
+  },
+  "offText": {
+    "message": "Av"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "Välj om du vill att [[MEDIAQUERYXYZ]] CSS-stilar ska inkluderas i den kopierade koden."
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "Välj format för den kopierade komponenten"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "Välj CSS-format för de kopierade stilarna"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "Dölj popup automatiskt"
+  },
+  "modalDragButtonTooltip": {
+    "message": "Dra för att flytta"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "Stänga"
+  },
+  "modalStudioExportTooltip": {
+    "message": "Öppna i DivMagic Studio"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "Balanserad"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "Innehåller pseudoelement som ::before och ::after, som kan påverka det visuella resultatet avsevärt men inte sväller koden överdrivet."
+  },
+  "contextMenuInspect": {
+    "message": "Inspektör"
+  },
+  "extCommandChooseElement": {
+    "message": "Välj element att kopiera medan du håller muspekaren"
+  },
+  "optionsTitle": {
+    "message": "alternativ"
+  },
+  "optionsFeedback": {
+    "message": "Om du har feedback eller förslag, låt oss veta!"
+  },
+  "optionsShortcuts": {
+    "message": "Tangentbordsgenvägar"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "Endast HTML"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "Endast CSS"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "Integrationer (WordPress)"
+  },
+  "modalExportToStudioText": {
+    "message": "Export till studio"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "Lägger till gränser till varje element"
+  },
+  "modalLeftButtonText": {
+    "message": "Vänster barnelement"
+  },
+  "modalRightButtonText": {
+    "message": "Höger barnelement"
+  },
+  "toolboxText": {
+    "message": "Verktygslåda"
+  },
+  "toolBoxCopyElementText": {
+    "message": "Kopieringselement"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "Kopieringselement"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "Se en elementdetalj"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "Kopiera teckensnitt"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "Webbteckensnitt"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "Kopiera teckensnitt"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "Denna webbplats använder systemteckensnitt"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "Klicka för att kopiera"
+  },
+  "toolBoxShowFontsText": {
+    "message": "Teckensnitt"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "Vet vad teckensnitt varje tagg använder"
+  },
+  "toolBoxThrashText": {
+    "message": "Skräp"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "Dölj / ta bort element"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "Dölj eller ta bort ett element"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "Dölj"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "Avlägsna"
+  },
+  "toolBoxColorPickerText": {
+    "message": "Färgväljare"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "Färgväljare"
+  },
+  "toolBoxGridsText": {
+    "message": "Rutnät"
+  },
+  "modalCopyViewText": {
+    "message": "Kopiera"
+  },
+  "modalAddStylesText": {
+    "message": "Lägg till stilar"
+  },
+  "activateToolbox": {
+    "message": "Aktivera verktygslåda"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "Flytta valet till det vänstra syskonelementet"
+  },
+  "modalRightButtonTooltip": {
+    "message": "Flytta valet till det högra syskonelementet"
+  },
+  "modalClassSettingsText": {
+    "message": "Klassinställningar:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "Original HTML -attribut"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "DivMagic CSS -klasser"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "Original CSS -klasser"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "DivMagic HTML -attribut"
+  },
+  "modalAddCssAttributeText": {
+    "message": "CSS -attribut"
+  },
+  "modalAddCssValueText": {
+    "message": "CSS -värde"
+  },
+  "modalInvalidCssValueText": {
+    "message": "Ogiltigt CSS -värde"
+  },
+  "modalElementSettingsText": {
+    "message": "Elementinställningar:"
+  },
+  "modalSaveElementText": {
+    "message": "Spara element"
+  },
+  "modalSavingElementText": {
+    "message": "Sparande..."
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "Fel verifieringskod. Se till att du angav rätt kod."
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "Avbryt verifiering"
+  },
+  "loginPageVerifyButton": {
+    "message": "Kontrollera"
+  },
+  "loginPageVerificationCode": {
+    "message": "Verifierings kod"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "En verifieringskod har skickats till din e -post. Ange den nedan."
+  },
+  "loginPageVerifyEmail": {
+    "message": "verifiera din epost"
+  },
+  "modalGoToLibraryText": {
+    "message": "Gå till mitt bibliotek"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "Komponenter per sida"
+  },
+  "devtoolsLibrary": {
+    "message": "Bibliotek"
+  },
+  "modalCopyNotification": {
+    "message": "Komponent kopia!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "Ditt bibliotek är tomt. Spara en komponent för att se den här."
+  },
+  "publishDate": {
+    "message": "31 mars version"
+  },
+  "modalExportNotification": {
+    "message": "Komponent exporterad!"
+  },
+  "optionsChooseLanguage": {
+    "message": "Välj ett språk"
+  },
+  "modalSaveNotification": {
+    "message": "Sparad komponent!"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "Tidigare"
+  },
+  "modalSavedElementText": {
+    "message": "Sparad!"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "Kopierade"
+  },
+  "modalEditorViewText": {
+    "message": "Redaktör"
+  },
+  "toolBoxInspectorText": {
+    "message": "Inspektör"
+  },
+  "devtoolsLibraryNext": {
+    "message": "Nästa"
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic - નકલ શૈલી"
+  },
+  "extDescription": {
+    "message": "કોઈપણ વેબપેજમાંથી ઘટકોને ફરીથી વાપરી શકાય તેવા વેબ ઘટકો તરીકે કૉપિ કરો. HTML, CSS, React, JSX અથવા Tailwind CSS કોડ મેળવો."
+  },
+  "loginPageTitle": {
+    "message": "DivMagic પર આપનું સ્વાગત છે!"
+  },
+  "loginPageBody1": {
+    "message": "અમારા શક્તિશાળી વેબ ડેવલપમેન્ટ ટૂલને ઍક્સેસ કરવા માટે, અમે તમને એકાઉન્ટ બનાવવા અથવા લૉગિન કરવા માટે આમંત્રિત કરીએ છીએ."
+  },
+  "loginPageBody2": {
+    "message": "તમે DivMagic ના સબ્સ્ક્રિપ્શન સાથે સીમલેસ ડેવલપમેન્ટ વર્કફ્લોનો આનંદ માણશો."
+  },
+  "loginPageEmailLabel": {
+    "message": "તમારા ઇમેઇલ"
+  },
+  "loginPageLoginButton": {
+    "message": "પ્રવેશ કરો"
+  },
+  "loginPageError": {
+    "message": "લૉગ ઇન કરી શકાયું નથી. ખાતરી કરો કે તમે સબ્સ્ક્રાઇબ કરેલ ઇમેઇલ સરનામાંનો ઉપયોગ કરી રહ્યાં છો."
+  },
+  "loginPageNewHere": {
+    "message": "DivMagic માટે નવા છો?"
+  },
+  "loginPageSignUp": {
+    "message": "સાઇન અપ કરો"
+  },
+  "popupCopyInstructions": {
+    "message": "કોઈપણ તત્વ પર ક્લિક કરો અથવા કી દબાવો:"
+  },
+  "popupSettings": {
+    "message": "સેટિંગ્સ"
+  },
+  "popupFeedback": {
+    "message": "પ્રતિભાવ"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "ઘટક ફોર્મેટ"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "શૈલી ફોર્મેટ"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "ઇનલાઇન CSS"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "બાહ્ય CSS"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "સ્થાનિક CSS"
+  },
+  "copied": {
+    "message": "નકલ કરી!"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic ને ઍક્સેસ કરવા માટે આ iframe ખોલવાની જરૂર છે."
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic આ iframe ઍક્સેસ કરી શકતું નથી."
+  },
+  "iframeOpenText": {
+    "message": "iframe ખોલો"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "[[DEVTOOLS]] પેનલ"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "અહીં તેની વિગતો જોવા માટે \"એલિમેન્ટ્સ\" ટૅબમાંથી કોઈ ઘટક પસંદ કરો"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "પસંદ કરેલ તત્વ"
+  },
+  "devtoolsCopyElement": {
+    "message": "એલિમેન્ટની નકલ કરો"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "નકલ કરી રહ્યા છીએ"
+  },
+  "panelCopyElementCopied": {
+    "message": "નકલ કરી"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "કૉપિ ઑપરેશન માટે પસંદ કરેલ ઘટકને મંજૂરી નથી"
+  },
+  "modalParentButtonText": {
+    "message": "પિતૃ તત્વ"
+  },
+  "modalParentButtonTooltip": {
+    "message": "વર્તમાન પસંદગીના મૂળ તત્વને પસંદ કરો"
+  },
+  "modalChildButtonText": {
+    "message": "બાળ તત્વ"
+  },
+  "modalChildButtonTooltip": {
+    "message": "પસંદગીને બાળ તત્વ પર ખસેડો"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "કૉપિ મોડ"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "વર્તમાન પસંદગી માટે નકલ મોડ પસંદ કરો. અમે મોટાભાગના ઉપયોગના કિસ્સાઓ માટે \"અનુકૂલનક્ષમ\" ની ભલામણ કરીએ છીએ."
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "ચોક્કસ"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "તમામ શૈલીઓની ચોક્કસ નકલ, એ સુનિશ્ચિત કરીને કે તત્વ સ્ત્રોત જેવું દેખાય."
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "અનુકૂલનશીલ"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "તત્વની રચના અને મૂળભૂત દેખાવને જાળવવા માટે જરૂરી માત્ર સૌથી આવશ્યક શૈલીઓનો સમાવેશ કરે છે. કસ્ટમાઇઝ કરવા માટે સરળ."
+  },
+  "modalCopyButtonText": {
+    "message": "નકલ કરો"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "કૉપિ કરી રહ્યાં છીએ..."
+  },
+  "onText": {
+    "message": "ચાલુ"
+  },
+  "offText": {
+    "message": "બંધ"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "જો તમે કૉપિ કરેલા કોડમાં [[MEDIAQUERYXYZ]] CSS શૈલીઓ શામેલ કરવા માંગતા હોવ તો પસંદ કરો."
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "કૉપિ કરેલ ઘટક માટે ફોર્મેટ પસંદ કરો"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "કૉપિ કરેલી શૈલીઓ માટે CSS ફોર્મેટ પસંદ કરો"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "ઓટો હાઇડ પોપઅપ"
+  },
+  "modalDragButtonTooltip": {
+    "message": "ખસેડવા માટે ખેંચો"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "બંધ"
+  },
+  "modalStudioExportTooltip": {
+    "message": "DivMagic Studio ખોલો"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "સંતુલિત"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "સ્યુડો-તત્વોનો સમાવેશ કરે છે જેમ કે ::before અને ::after, જે વિઝ્યુઅલ પરિણામને નોંધપાત્ર રીતે અસર કરી શકે છે પરંતુ કોડને વધુ પડતો બ્લોટ કરતા નથી."
+  },
+  "contextMenuInspect": {
+    "message": "ઇન્સ્પેક્ટર"
+  },
+  "extCommandChooseElement": {
+    "message": "હોવર કરતી વખતે નકલ કરવા માટે તત્વ પસંદ કરો"
+  },
+  "optionsTitle": {
+    "message": "વિકલ્પો"
+  },
+  "optionsFeedback": {
+    "message": "જો તમારી પાસે કોઈ પ્રતિસાદ અથવા સૂચનો હોય, તો કૃપા કરીને અમને જણાવો!"
+  },
+  "optionsShortcuts": {
+    "message": "કીબોર્ડ શૉર્ટકટ્સ"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "માત્ર HTML"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "માત્ર CSS"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "એકીકરણ (વર્ડપ્રેસ)"
+  },
+  "modalExportToStudioText": {
+    "message": "સ્ટુડિયો નિકાસ"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "દરેક તત્વમાં સરહદો ઉમેરે છે"
+  },
+  "modalLeftButtonText": {
+    "message": "ડાબી બાળક તત્વ"
+  },
+  "modalRightButtonText": {
+    "message": "સાચો બાળક તત્વ"
+  },
+  "toolboxText": {
+    "message": "સામાન"
+  },
+  "toolBoxCopyElementText": {
+    "message": "નકલ -તત્વ"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "નકલ -તત્વ"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "એક તત્વ વિગત જુઓ"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "નકલ -ફોન્ટ"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "વેબ ફોન્ટ્સ"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "નકલ -ફોન્ટ"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "આ વેબસાઇટ સિસ્ટમ ફોન્ટ્સનો ઉપયોગ કરે છે"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "નકલ કરવા માટે ક્લિક કરો"
+  },
+  "toolBoxShowFontsText": {
+    "message": "ક fંગું"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "જાણો કે દરેક ટ tag ગ કયા ફોન્ટનો ઉપયોગ કરે છે"
+  },
+  "toolBoxThrashText": {
+    "message": "કચરો"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "તત્વો છુપાવો / દૂર કરો"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "એક તત્વ છુપાવો અથવા દૂર કરો"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "છટકી જવું"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "દૂર કરવું"
+  },
+  "toolBoxColorPickerText": {
+    "message": "રંગીન વ્યક્તિ"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "રંગીન વ્યક્તિ"
+  },
+  "toolBoxGridsText": {
+    "message": "ગ્રીસ"
+  },
+  "modalCopyViewText": {
+    "message": "નકલ"
+  },
+  "modalAddStylesText": {
+    "message": "શૈલીઓ ઉમેરો"
+  },
+  "activateToolbox": {
+    "message": "ટૂલબોક્સ સક્રિય કરો"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "પસંદગીને ડાબી બહેન તત્વમાં ખસેડો"
+  },
+  "modalRightButtonTooltip": {
+    "message": "પસંદગીને જમણા ભાઈ -બહેન તત્વમાં ખસેડો"
+  },
+  "modalClassSettingsText": {
+    "message": "વર્ગ સેટિંગ્સ:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "મૂળ એચટીએમએલ લક્ષણો"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "દિવ્યજિક સીએસએસ વર્ગ"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "મૂળ સીએસએસ વર્ગો"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "દિવ્યજિક એચટીએમએલ લક્ષણો"
+  },
+  "modalAddCssAttributeText": {
+    "message": "સી.એસ."
+  },
+  "modalAddCssValueText": {
+    "message": "સી.એસ."
+  },
+  "modalInvalidCssValueText": {
+    "message": "અમાન્ય સીએસએસ મૂલ્ય"
+  },
+  "modalElementSettingsText": {
+    "message": "તત્વ સેટિંગ્સ:"
+  },
+  "modalSaveElementText": {
+    "message": "તત્ત્વ"
+  },
+  "modalSavingElementText": {
+    "message": "બચત ..."
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "ખોટો ચકાસણી કોડ. કૃપા કરીને ખાતરી કરો કે તમે સાચો કોડ દાખલ કર્યો છે."
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "ચકાસણી રદ કરો"
+  },
+  "loginPageVerifyButton": {
+    "message": "ચકાસણી કરવી"
+  },
+  "loginPageVerificationCode": {
+    "message": "ચકાસણી કોડ"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "તમારા ઇમેઇલ પર ચકાસણી કોડ મોકલવામાં આવ્યો છે. કૃપા કરીને તેને નીચે દાખલ કરો."
+  },
+  "loginPageVerifyEmail": {
+    "message": "તમારા ઇમેઇલની ચકાસણી કરો"
+  },
+  "modalGoToLibraryText": {
+    "message": "મારી લાઇબ્રેરી પર જાઓ"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "પૃષ્ઠ દીઠ ઘટકો"
+  },
+  "devtoolsLibrary": {
+    "message": "પુસ્તકાલય"
+  },
+  "modalCopyNotification": {
+    "message": "ઘટક નકલ!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "તમારી લાઇબ્રેરી ખાલી છે. તેને અહીં જોવા માટે એક ઘટક સાચવો."
+  },
+  "publishDate": {
+    "message": "31 માર્ચ સંસ્કરણ"
+  },
+  "modalExportNotification": {
+    "message": "ઘટક નિકાસ!"
+  },
+  "optionsChooseLanguage": {
+    "message": "ભાષા પસંદ કરો"
+  },
+  "modalSaveNotification": {
+    "message": "ઘટક સાચવેલ!"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "અગાઉના"
+  },
+  "modalSavedElementText": {
+    "message": "સાચવ્યું!"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "નકલ કરી"
+  },
+  "modalEditorViewText": {
+    "message": "સંપાદક"
+  },
+  "toolBoxInspectorText": {
+    "message": "ઇન્સ્પેક્ટર"
+  },
+  "devtoolsLibraryNext": {
+    "message": "આગળ"
+  }
+}

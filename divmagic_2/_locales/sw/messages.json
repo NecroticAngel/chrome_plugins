@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic - Sinema ya Nakili"
+  },
+  "extDescription": {
+    "message": "Nakili vipengele kutoka kwa ukurasa wowote wa tovuti kama vijenzi vinavyoweza kutumika tena. Pata msimbo wa HTML, CSS, React, JSX au Tailwind CSS."
+  },
+  "loginPageTitle": {
+    "message": "Karibu DivMagic!"
+  },
+  "loginPageBody1": {
+    "message": "Ili kufikia zana yetu madhubuti ya ukuzaji wavuti, tunakualika ufungue akaunti au uingie."
+  },
+  "loginPageBody2": {
+    "message": "Utafurahia utendakazi wa maendeleo bila mshono ukiwa umejisajili kwa DivMagic."
+  },
+  "loginPageEmailLabel": {
+    "message": "Barua pepe yako"
+  },
+  "loginPageLoginButton": {
+    "message": "Ingia"
+  },
+  "loginPageError": {
+    "message": "Haikuweza kuingia. Hakikisha unatumia barua pepe uliyojisajili nayo."
+  },
+  "loginPageNewHere": {
+    "message": "Je, ni mpya kwa DivMagic?"
+  },
+  "loginPageSignUp": {
+    "message": "Jisajili"
+  },
+  "popupCopyInstructions": {
+    "message": "Bonyeza kipengele chochote au bonyeza kitufe:"
+  },
+  "popupSettings": {
+    "message": "Mipangilio"
+  },
+  "popupFeedback": {
+    "message": "Maoni"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "Umbizo la kipengele"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "Umbizo la Mtindo"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "Inline CSS"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "CSS ya nje"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "CSS ya ndani"
+  },
+  "copied": {
+    "message": "Imenakiliwa!"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic inahitaji kufungua iframe hii ili kuipata."
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic haiwezi kufikia iframe hii."
+  },
+  "iframeOpenText": {
+    "message": "Fungua iframe"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "[[DEVTOOLS]] Paneli"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "Chagua kipengee kutoka kwa kichupo cha \"Vipengee\" ili kuona maelezo yake hapa"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "Kipengele Kilichochaguliwa"
+  },
+  "devtoolsCopyElement": {
+    "message": "Nakili Kipengele"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "Kunakili"
+  },
+  "panelCopyElementCopied": {
+    "message": "Imenakiliwa"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "Kipengele kilichochaguliwa hakiruhusiwi kwa shughuli za kunakili"
+  },
+  "modalParentButtonText": {
+    "message": "Kipengele cha Mzazi"
+  },
+  "modalParentButtonTooltip": {
+    "message": "Chagua kipengee kikuu cha chaguo la sasa"
+  },
+  "modalChildButtonText": {
+    "message": "Kipengele cha Mtoto"
+  },
+  "modalChildButtonTooltip": {
+    "message": "Sogeza uteuzi kwenye kipengele cha mtoto"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "Hali ya kunakili"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "Chagua hali ya kunakili kwa uteuzi wa sasa. Tunapendekeza \"Inayoweza Kubadilika\" kwa hali nyingi za matumizi."
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "Hasa"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "Nakala halisi ya mitindo yote, kuhakikisha kipengele kinaonekana kama chanzo."
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "Inaweza kubadilika"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "Inajumuisha tu mitindo muhimu zaidi inayohitajika kudumisha muundo na mwonekano wa msingi wa kipengele. Rahisi kubinafsisha."
+  },
+  "modalCopyButtonText": {
+    "message": "Nakili"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "Inanakili..."
+  },
+  "onText": {
+    "message": "Washa"
+  },
+  "offText": {
+    "message": "Imezimwa"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "Chagua kama ungependa [[MEDIAQUERYXYZ]] mitindo ya CSS ijumuishwe kwenye msimbo ulionakiliwa."
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "Chagua umbizo la kijenzi kilichonakiliwa"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "Chagua umbizo la CSS kwa mitindo iliyonakiliwa"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "Ficha Ibukizi Kiotomatiki"
+  },
+  "modalDragButtonTooltip": {
+    "message": "Buruta ili usogeze"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "Funga"
+  },
+  "modalStudioExportTooltip": {
+    "message": "Fungua katika DivMagic Studio"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "Imesawazishwa"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "Hujumuisha vipengele vya uwongo kama ::before na ::after ya, ambavyo vinaweza kuathiri matokeo ya mwonekano kwa kiasi kikubwa lakini havijaziba msimbo kupita kiasi."
+  },
+  "contextMenuInspect": {
+    "message": "Mkaguzi"
+  },
+  "extCommandChooseElement": {
+    "message": "Chagua kipengele cha kunakili huku ukielea"
+  },
+  "optionsTitle": {
+    "message": "Chaguo"
+  },
+  "optionsFeedback": {
+    "message": "Ikiwa una maoni yoyote au mapendekezo, tafadhali tujulishe!"
+  },
+  "optionsShortcuts": {
+    "message": "Njia za mkato za Kibodi"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "HTML pekee"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "CSS pekee"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "Ushirikiano (WordPress)"
+  },
+  "modalExportToStudioText": {
+    "message": "Usafirishaji kwa studio"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "Anaongeza mipaka kwa kila kitu"
+  },
+  "modalLeftButtonText": {
+    "message": "Kipengee cha kushoto cha mtoto"
+  },
+  "modalRightButtonText": {
+    "message": "Kipengee cha kulia cha mtoto"
+  },
+  "toolboxText": {
+    "message": "Sanduku la zana"
+  },
+  "toolBoxCopyElementText": {
+    "message": "Nakili kipengee"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "Nakili kipengee"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "Tazama maelezo ya kipengele"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "Nakili fonti"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "Fonti za wavuti"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "Nakili fonti"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "Tovuti hii hutumia fonti za mfumo"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "Bonyeza kunakili"
+  },
+  "toolBoxShowFontsText": {
+    "message": "Fonti"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "Jua nini font kila lebo inatumia"
+  },
+  "toolBoxThrashText": {
+    "message": "Takataka"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "Ficha / ondoa vitu"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "Ficha au ondoa kitu"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "Ficha"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "Ondoa"
+  },
+  "toolBoxColorPickerText": {
+    "message": "Picker ya rangi"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "Picker ya rangi"
+  },
+  "toolBoxGridsText": {
+    "message": "Gridi"
+  },
+  "modalCopyViewText": {
+    "message": "Nakala"
+  },
+  "modalAddStylesText": {
+    "message": "Ongeza mitindo"
+  },
+  "activateToolbox": {
+    "message": "Anzisha sanduku la zana"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "Sogeza uteuzi kwa kipengee cha ndugu wa kushoto"
+  },
+  "modalRightButtonTooltip": {
+    "message": "Sogeza uteuzi kwa kipengee cha kulia cha ndugu"
+  },
+  "modalClassSettingsText": {
+    "message": "Mipangilio ya darasa:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "Sifa halisi za HTML"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "Madarasa ya DivMagic CSS"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "Madarasa ya CSS ya asili"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "Sifa za DivMagic HTML"
+  },
+  "modalAddCssAttributeText": {
+    "message": "Sifa ya CSS"
+  },
+  "modalAddCssValueText": {
+    "message": "Thamani ya CSS"
+  },
+  "modalInvalidCssValueText": {
+    "message": "Thamani batili ya CSS"
+  },
+  "modalElementSettingsText": {
+    "message": "Mipangilio ya kipengee:"
+  },
+  "modalSaveElementText": {
+    "message": "Hifadhi kipengee"
+  },
+  "modalSavingElementText": {
+    "message": "Kuokoa ..."
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "Nambari ya Uthibitishaji Mbaya. Tafadhali hakikisha umeingiza nambari sahihi."
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "Ghairi uthibitisho"
+  },
+  "loginPageVerifyButton": {
+    "message": "Thibitisha"
+  },
+  "loginPageVerificationCode": {
+    "message": "Nambari ya uthibitisho"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "Nambari ya uthibitisho imetumwa kwa barua pepe yako. Tafadhali ingiza hapa chini."
+  },
+  "loginPageVerifyEmail": {
+    "message": "Thibitisha barua pepe yako"
+  },
+  "modalGoToLibraryText": {
+    "message": "Nenda kwenye maktaba yangu"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "Vipengele kwa kila ukurasa"
+  },
+  "devtoolsLibrary": {
+    "message": "Maktaba"
+  },
+  "modalCopyNotification": {
+    "message": "Sehemu imenakiliwa!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "Maktaba yako haina kitu. Hifadhi sehemu ili kuiona hapa."
+  },
+  "publishDate": {
+    "message": "Machi 31 Toleo"
+  },
+  "modalExportNotification": {
+    "message": "Sehemu iliyosafirishwa!"
+  },
+  "optionsChooseLanguage": {
+    "message": "Chagua lugha"
+  },
+  "modalSaveNotification": {
+    "message": "Sehemu imeokolewa!"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "Iliyotangulia"
+  },
+  "modalSavedElementText": {
+    "message": "Imehifadhiwa!"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "Imenakiliwa"
+  },
+  "modalEditorViewText": {
+    "message": "Mhariri"
+  },
+  "toolBoxInspectorText": {
+    "message": "Mkaguzi"
+  },
+  "devtoolsLibraryNext": {
+    "message": "Inayofuata"
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "extName": {
+    "message": "DivMagic - סגנון העתקה"
+  },
+  "extDescription": {
+    "message": "העתק אלמנטים מכל דף אינטרנט כרכיבי אינטרנט הניתנים לשימוש חוזר. קבל קוד HTML, CSS, React, JSX או Tailwind CSS."
+  },
+  "loginPageTitle": {
+    "message": "ברוכים הבאים ל- DivMagic!"
+  },
+  "loginPageBody1": {
+    "message": "כדי לגשת לכלי פיתוח האינטרנט החזק שלנו, אנו מזמינים אותך ליצור חשבון או להתחבר."
+  },
+  "loginPageBody2": {
+    "message": "אתה תיהנה מזרימת עבודה חלקה של פיתוח עם מנוי ל-DivMagic."
+  },
+  "loginPageEmailLabel": {
+    "message": "האימייל שלך"
+  },
+  "loginPageLoginButton": {
+    "message": "התחברות"
+  },
+  "loginPageError": {
+    "message": "לא ניתן להתחבר. ודא שאתה משתמש בכתובת האימייל שאיתה נרשמת."
+  },
+  "loginPageNewHere": {
+    "message": "חדש ב-DivMagic?"
+  },
+  "loginPageSignUp": {
+    "message": "הירשם"
+  },
+  "popupCopyInstructions": {
+    "message": "לחץ על רכיב כלשהו או לחץ על מקש:"
+  },
+  "popupSettings": {
+    "message": "הגדרות"
+  },
+  "popupFeedback": {
+    "message": "מָשׁוֹב"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "פורמט רכיב"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "פורמט סגנון"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "CSS מוטבע"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "CSS חיצוני"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "CSS מקומי"
+  },
+  "copied": {
+    "message": "מוּעֲתָק!"
+  },
+  "iframeNeedAccessText": {
+    "message": "DivMagic צריך לפתוח את ה-iframe הזה כדי לגשת אליו."
+  },
+  "iframeCantBeAccessedText": {
+    "message": "DivMagic לא יכולה לגשת ל-iframe זה."
+  },
+  "iframeOpenText": {
+    "message": "פתח iframe"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "[[DEVTOOLS]] לוח"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "בחר אלמנט מהכרטיסייה \"אלמנטים\" כדי לראות את הפרטים שלו כאן"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "אלמנט נבחר"
+  },
+  "devtoolsCopyElement": {
+    "message": "העתק אלמנט"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "הַעתָקָה"
+  },
+  "panelCopyElementCopied": {
+    "message": "מוּעֲתָק"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "הרכיב שנבחר אינו מותר לפעולות העתקה"
+  },
+  "modalParentButtonText": {
+    "message": "אלמנט הורה"
+  },
+  "modalParentButtonTooltip": {
+    "message": "בחר את רכיב האב של הבחירה הנוכחית"
+  },
+  "modalChildButtonText": {
+    "message": "אלמנט ילד"
+  },
+  "modalChildButtonTooltip": {
+    "message": "העבר את הבחירה לרכיב הצאצא"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "מצב העתקה"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "בחר את מצב ההעתקה עבור הבחירה הנוכחית. אנו ממליצים על \"מותאם\" עבור רוב מקרי השימוש."
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "מְדוּיָק"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "עותק מדויק של כל הסגנונות, המבטיח שהאלמנט נראה כמו המקור."
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "סָגִיל"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "כולל רק את הסגנונות החיוניים ביותר הדרושים לשמירה על המבנה והמראה הבסיסי של האלמנט. קל להתאמה אישית."
+  },
+  "modalCopyButtonText": {
+    "message": "עותק"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "הַעתָקָה..."
+  },
+  "onText": {
+    "message": "עַל"
+  },
+  "offText": {
+    "message": "כבוי"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "בחר אם אתה רוצה שסגנונות CSS [[MEDIAQUERYXYZ]] ייכללו בקוד המועתק."
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "בחר את הפורמט עבור הרכיב המועתק"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "בחר את פורמט ה-CSS עבור הסגנונות שהועתקו"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "הסתר אוטומטית קופץ"
+  },
+  "modalDragButtonTooltip": {
+    "message": "גרור כדי להזיז"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "סגור"
+  },
+  "modalStudioExportTooltip": {
+    "message": "פתוח ב-DivMagic Studio"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "מְאוּזָן"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "משלב פסאודו-אלמנטים כמו ::before ו-:after, שיכולים להשפיע על התוצאה הוויזואלית באופן משמעותי אך אל תנפחו את הקוד יתר על המידה."
+  },
+  "contextMenuInspect": {
+    "message": "מְפַקֵחַ"
+  },
+  "extCommandChooseElement": {
+    "message": "בחר רכיב להעתקה תוך כדי ריחוף"
+  },
+  "optionsTitle": {
+    "message": "אפשרויות"
+  },
+  "optionsFeedback": {
+    "message": "אם יש לך משוב או הצעות, אנא הודע לנו!"
+  },
+  "optionsShortcuts": {
+    "message": "קיצורי דרך במקלדת"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "רק HTML"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "רק CSS"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "אינטגרציות (וורדפרס)"
+  },
+  "modalExportToStudioText": {
+    "message": "ייצא לסטודיו"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "מוסיף גבולות לכל אלמנט"
+  },
+  "modalLeftButtonText": {
+    "message": "אלמנט שילד שמאלי"
+  },
+  "modalRightButtonText": {
+    "message": "אלמנט ילד נכון"
+  },
+  "toolboxText": {
+    "message": "ארגז כלים"
+  },
+  "toolBoxCopyElementText": {
+    "message": "העתק אלמנט"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "העתק אלמנט"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "עיין בפרט אלמנט"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "העתק גופן"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "גופני אינטרנט"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "העתק גופן"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "אתר זה משתמש בגופני מערכת"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "לחץ כדי להעתיק"
+  },
+  "toolBoxShowFontsText": {
+    "message": "גופנים"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "דע באיזה גופן כל תג משתמש"
+  },
+  "toolBoxThrashText": {
+    "message": "אַשׁפָּה"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "הסתר / הסר אלמנטים"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "הסתר או הסר אלמנט"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "להתחבא"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "לְהַסִיר"
+  },
+  "toolBoxColorPickerText": {
+    "message": "בוחר הצבעים"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "בוחר הצבעים"
+  },
+  "toolBoxGridsText": {
+    "message": "רשתות"
+  },
+  "modalCopyViewText": {
+    "message": "עותק"
+  },
+  "modalAddStylesText": {
+    "message": "הוסף סגנונות"
+  },
+  "activateToolbox": {
+    "message": "הפעל את ארגז הכלים"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "העבירו את הבחירה לאלמנט האחים השמאלי"
+  },
+  "modalRightButtonTooltip": {
+    "message": "העבירו את הבחירה לאלמנט האחים הימני"
+  },
+  "modalClassSettingsText": {
+    "message": "הגדרות כיתה:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "תכונות HTML מקוריות"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "שיעורי CSS DivMagic"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "שיעורי CSS מקוריים"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "תכונות HTML DivMagic"
+  },
+  "modalAddCssAttributeText": {
+    "message": "תכונה של CSS"
+  },
+  "modalAddCssValueText": {
+    "message": "ערך CSS"
+  },
+  "modalInvalidCssValueText": {
+    "message": "ערך CSS לא חוקי"
+  },
+  "modalElementSettingsText": {
+    "message": "הגדרות אלמנט:"
+  },
+  "modalSaveElementText": {
+    "message": "שמור אלמנט"
+  },
+  "modalSavingElementText": {
+    "message": "חִסָכוֹן..."
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "קוד אימות שגוי. אנא וודא שהזנת את הקוד הנכון."
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "ביטול אימות"
+  },
+  "loginPageVerifyButton": {
+    "message": "תאשר"
+  },
+  "loginPageVerificationCode": {
+    "message": "קוד אימות"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "קוד אימות נשלח לדוא\"ל שלך. אנא הכנס אותו למטה."
+  },
+  "loginPageVerifyEmail": {
+    "message": "אמת את הדוא\"ל שלך"
+  },
+  "modalGoToLibraryText": {
+    "message": "לך לספריה שלי"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "רכיבים לדף"
+  },
+  "devtoolsLibrary": {
+    "message": "סִפְרִיָה"
+  },
+  "modalCopyNotification": {
+    "message": "רכיב שהועתק!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "הספרייה שלך ריקה. שמור רכיב כדי לראות אותו כאן."
+  },
+  "publishDate": {
+    "message": "גרסת 31 במרץ"
+  },
+  "modalExportNotification": {
+    "message": "רכיב מיוצא!"
+  },
+  "optionsChooseLanguage": {
+    "message": "בחר שפה"
+  },
+  "modalSaveNotification": {
+    "message": "רכיב נשמר!"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "קודם"
+  },
+  "modalSavedElementText": {
+    "message": "שמור!"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "מוּעֲתָק"
+  },
+  "modalEditorViewText": {
+    "message": "עוֹרֵך"
+  },
+  "toolBoxInspectorText": {
+    "message": "מְפַקֵחַ"
+  },
+  "devtoolsLibraryNext": {
+    "message": "הַבָּא"
+  }
+}

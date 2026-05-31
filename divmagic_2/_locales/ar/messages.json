@@ -1,0 +1,365 @@
+{
+  "extName": {
+    "message": "DivMagic - نسخ النمط"
+  },
+  "extDescription": {
+    "message": "انسخ العناصر من أي صفحة ويب كمكونات ويب قابلة لإعادة الاستخدام. احصل على كود HTML أو CSS أو React أو JSX أو Tailwind CSS."
+  },
+  "loginPageTitle": {
+    "message": "مرحبا بكم في DivMagic!"
+  },
+  "loginPageBody1": {
+    "message": "للوصول إلى أداة تطوير الويب القوية الخاصة بنا ، ندعوك لإنشاء حساب أو تسجيل الدخول."
+  },
+  "loginPageBody2": {
+    "message": "ستستمتع بسير عمل تطوير سلس من خلال الاشتراك في DivMagic."
+  },
+  "loginPageEmailLabel": {
+    "message": "بريدك الالكتروني"
+  },
+  "loginPageLoginButton": {
+    "message": "تسجيل الدخول"
+  },
+  "loginPageError": {
+    "message": "تعذر تسجيل الدخول. تأكد من أنك تستخدم عنوان البريد الإلكتروني الذي اشتركت به."
+  },
+  "loginPageNewHere": {
+    "message": "جديد في DivMagic؟"
+  },
+  "loginPageSignUp": {
+    "message": "اشتراك"
+  },
+  "popupCopyInstructions": {
+    "message": "انقر على أي عنصر أو اضغط على المفتاح:"
+  },
+  "popupSettings": {
+    "message": "إعدادات"
+  },
+  "popupFeedback": {
+    "message": "تعليق"
+  },
+  "popupSettingsComponentFormat": {
+    "message": "تنسيق المكون"
+  },
+  "popupSettingsStyleFormat": {
+    "message": "تنسيق النمط"
+  },
+  "popupSettingsStyleFormatInlineCSS": {
+    "message": "مضمنة CSS"
+  },
+  "popupSettingsStyleFormatExternalCSS": {
+    "message": "CSS خارجي"
+  },
+  "popupSettingsStyleFormatLocalCSS": {
+    "message": "CSS المحلي"
+  },
+  "copied": {
+    "message": "نسخ!"
+  },
+  "iframeNeedAccessText": {
+    "message": "يحتاج DivMagic إلى فتح إطار iframe هذا للوصول إليه."
+  },
+  "iframeCantBeAccessedText": {
+    "message": "لا يمكن لـ DivMagic الوصول إلى إطار iframe هذا."
+  },
+  "iframeOpenText": {
+    "message": "افتح إطار iframe"
+  },
+  "popupSettingsShowDevToolsPanel": {
+    "message": "أدوات التطوير لوحة"
+  },
+  "devtoolsNoElementSelectedText": {
+    "message": "حدد عنصرًا من علامة التبويب \"العناصر\" للاطلاع على تفاصيله هنا"
+  },
+  "devtoolsSelectedElementText": {
+    "message": "العنصر المحدد"
+  },
+  "devtoolsCopyElement": {
+    "message": "نسخ العنصر"
+  },
+  "devtoolsCopyElementCopying": {
+    "message": "النسخ"
+  },
+  "panelCopyElementCopied": {
+    "message": "نسخ"
+  },
+  "devtoolsUnsupportedElementSelectedText": {
+    "message": "العنصر المحدد غير مسموح به لعمليات النسخ"
+  },
+  "modalParentButtonText": {
+    "message": "عنصر الوالدين"
+  },
+  "modalParentButtonTooltip": {
+    "message": "حدد العنصر الأصلي للاختيار الحالي"
+  },
+  "modalChildButtonText": {
+    "message": "عنصر الطفل"
+  },
+  "modalChildButtonTooltip": {
+    "message": "انقل التحديد إلى العنصر الفرعي"
+  },
+  "modalCopyModeSelectionText": {
+    "message": "وضع النسخ"
+  },
+  "modalCopyModeSelectionTooltip": {
+    "message": "حدد وضع النسخ للتحديد الحالي. نوصي بـ \"قابل للتكيف\" لمعظم حالات الاستخدام."
+  },
+  "modalCopyModeSelectionExact": {
+    "message": "بالضبط"
+  },
+  "modalCopyModeSelectionExactTooltip": {
+    "message": "نسخة طبق الأصل من جميع الأنماط، مما يضمن أن يبدو العنصر مثل المصدر."
+  },
+  "modalCopyModeSelectionAdaptable": {
+    "message": "قابلة للتكيف"
+  },
+  "modalCopyModeSelectionAdaptableTooltip": {
+    "message": "يتضمن فقط الأنماط الأساسية اللازمة للحفاظ على البنية والمظهر الأساسي للعنصر. من السهل التخصيص."
+  },
+  "modalCopyButtonText": {
+    "message": "ينسخ"
+  },
+  "modalCopyButtonLoadingText": {
+    "message": "جارٍ النسخ..."
+  },
+  "onText": {
+    "message": "على"
+  },
+  "offText": {
+    "message": "عن"
+  },
+  "modalMediaQuerySelectionTooltip": {
+    "message": "حدد ما إذا كنت تريد تضمين أنماط Media Query CSS في التعليمات البرمجية المنسوخة."
+  },
+  "popupSettingsComponentFormatTooltip": {
+    "message": "حدد تنسيق المكون المنسوخ"
+  },
+  "popupSettingsStyleFormatTooltip": {
+    "message": "حدد تنسيق CSS للأنماط المنسوخة"
+  },
+  "popupSettingsAutoHidePopup": {
+    "message": "إخفاء النوافذ المنبثقة تلقائيًا"
+  },
+  "modalDragButtonTooltip": {
+    "message": "اسحب للتحرك"
+  },
+  "modalCloseButtonTooltip": {
+    "message": "يغلق"
+  },
+  "modalStudioExportTooltip": {
+    "message": "افتح في DivMagic Studio"
+  },
+  "modalCopyModeSelectionBalanced": {
+    "message": "متوازن"
+  },
+  "modalCopyModeSelectionBalancedTooltip": {
+    "message": "يتضمن عناصر زائفة مثل ::after و ::before والتي يمكن أن تؤثر على النتيجة المرئية بشكل كبير ولكن لا تزيد من حجم الكود بشكل مفرط."
+  },
+  "contextMenuInspect": {
+    "message": "مفتش"
+  },
+  "extCommandChooseElement": {
+    "message": "اختر عنصرًا لنسخه أثناء التمرير"
+  },
+  "optionsTitle": {
+    "message": "خيارات"
+  },
+  "optionsFeedback": {
+    "message": "إذا كان لديك أي ملاحظات أو اقتراحات، واسمحوا لنا أن نعرف!"
+  },
+  "optionsShortcuts": {
+    "message": "اختصارات لوحة المفاتيح"
+  },
+  "modalCopyHTMLOnlyText": {
+    "message": "HTML فقط"
+  },
+  "modalCopyCSSOnlyText": {
+    "message": "CSS فقط"
+  },
+  "modalCopyIntegrationsText": {
+    "message": "التكامل (ووردبريس)"
+  },
+  "modalExportToStudioText": {
+    "message": "التصدير إلى الاستوديو"
+  },
+  "modalLeftButtonText": {
+    "message": "عنصر الطفل اليسار"
+  },
+  "modalRightButtonText": {
+    "message": "عنصر الطفل الصحيح"
+  },
+  "toolboxText": {
+    "message": "أدوات"
+  },
+  "toolBoxCopyElementText": {
+    "message": "عنصر نسخ"
+  },
+  "toolBoxCopyElementDescriptionText": {
+    "message": "عنصر نسخ"
+  },
+  "toolBoxInspectorText": {
+    "message": "مفتش"
+  },
+  "toolBoxInspectorDescriptionText": {
+    "message": "انظر تفاصيل العنصر"
+  },
+  "toolBoxCopyFontsText": {
+    "message": "نسخ الخط"
+  },
+  "toolBoxCopyFontsWindowText": {
+    "message": "خطوط الويب"
+  },
+  "toolBoxCopyFontsDescriptionText": {
+    "message": "نسخ الخط"
+  },
+  "toolBoxCopyFontsNotFoundText": {
+    "message": "يستخدم الموقع فقط خطوط النظام افتراضيًا"
+  },
+  "toolBoxCopyFontsCopyToClipboardText": {
+    "message": "انقر لنسخ"
+  },
+  "toolBoxCopyFontsCopiedText": {
+    "message": "نسخ"
+  },
+  "toolBoxShowFontsText": {
+    "message": "الخطوط"
+  },
+  "toolBoxShowFontsWindowText": {
+    "message": "الخطوط"
+  },
+  "toolBoxShowFontsDescriptionText": {
+    "message": "تعرف على الخط الذي تستخدمه كل علامة"
+  },
+  "toolBoxThrashText": {
+    "message": "نفاية"
+  },
+  "toolBoxThrashWindowText": {
+    "message": "إخفاء / إزالة العناصر"
+  },
+  "toolBoxThrashDescriptionText": {
+    "message": "إخفاء أو إزالة عنصر"
+  },
+  "toolBoxThrashWindowHideButton": {
+    "message": "يخفي"
+  },
+  "toolBoxThrashWindowRemoveButton": {
+    "message": "يزيل"
+  },
+  "toolBoxColorPickerText": {
+    "message": "أداة انتقاء اللون"
+  },
+  "toolBoxColorPickerDescriptionText": {
+    "message": "أداة انتقاء اللون"
+  },
+  "toolBoxGridsText": {
+    "message": "شبكات"
+  },
+  "toolBoxGridsDescriptionText": {
+    "message": "يضيف حدود إلى كل عنصر"
+  },
+  "modalCopyViewText": {
+    "message": "ينسخ"
+  },
+  "modalEditorViewText": {
+    "message": "محرر"
+  },
+  "modalAddStylesText": {
+    "message": "أضف أنماط"
+  },
+  "activateToolbox": {
+    "message": "تنشيط أدوات"
+  },
+  "modalLeftButtonTooltip": {
+    "message": "انقل التحديد إلى عنصر الأخوة اليسرى"
+  },
+  "modalRightButtonTooltip": {
+    "message": "انقل التحديد إلى عنصر الأخوة الصحيح"
+  },
+  "modalClassSettingsText": {
+    "message": "إعدادات الفصل:"
+  },
+  "modalCopyHtmlWithOriginalText": {
+    "message": "سمات HTML الأصلية"
+  },
+  "modalCopyCssWithDivmagicText": {
+    "message": "دروس CSS DivMagic"
+  },
+  "modalCopyCssWithOriginalText": {
+    "message": "فصول CSS الأصلية"
+  },
+  "modalCopyHtmlWithDivmagicText": {
+    "message": "DivMagic HTML سمات"
+  },
+  "modalAddCssAttributeText": {
+    "message": "سمة CSS"
+  },
+  "modalAddCssValueText": {
+    "message": "قيمة CSS"
+  },
+  "modalInvalidCssValueText": {
+    "message": "قيمة CSS غير صالحة"
+  },
+  "modalElementSettingsText": {
+    "message": "إعدادات العناصر:"
+  },
+  "modalSaveElementText": {
+    "message": "حفظ العنصر"
+  },
+  "modalSavingElementText": {
+    "message": "إنقاذ..."
+  },
+  "modalSavedElementText": {
+    "message": "أنقذ!"
+  },
+  "loginPageWrongVerificationCode": {
+    "message": "رمز التحقق الخاطئ. يرجى التأكد من إدخال الرمز الصحيح."
+  },
+  "loginPageVerifyCancelButton": {
+    "message": "إلغاء التحقق"
+  },
+  "loginPageVerifyButton": {
+    "message": "يؤكد"
+  },
+  "loginPageVerificationCode": {
+    "message": "رمز التحقق"
+  },
+  "loginPageVerificationCodeSent": {
+    "message": "تم إرسال رمز التحقق إلى بريدك الإلكتروني. الرجاء إدخاله أدناه."
+  },
+  "loginPageVerifyEmail": {
+    "message": "قم بتأكيد بريدك الألكتروني"
+  },
+  "modalGoToLibraryText": {
+    "message": "اذهب إلى مكتبتي"
+  },
+  "devtoolsLibraryComponentPerPage": {
+    "message": "مكونات لكل صفحة"
+  },
+  "devtoolsLibraryNext": {
+    "message": "التالي"
+  },
+  "devtoolsLibraryPrevious": {
+    "message": "سابق"
+  },
+  "devtoolsLibrary": {
+    "message": "مكتبة"
+  },
+  "modalCopyNotification": {
+    "message": "مكون نسخ!"
+  },
+  "devtoolsLibraryNoComponents": {
+    "message": "مكتبتك فارغة. احفظ مكونًا لرؤيته هنا."
+  },
+  "publishDate": {
+    "message": "31 مارس نسخة"
+  },
+  "modalExportNotification": {
+    "message": "مكون تصدير!"
+  },
+  "optionsChooseLanguage": {
+    "message": "اختر لغة"
+  },
+  "modalSaveNotification": {
+    "message": "مكون حفظ!"
+  }
+}
